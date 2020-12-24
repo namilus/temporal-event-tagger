@@ -1,0 +1,660 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> AP900815-0044 </DOCNO>
+AP-NR-<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t3" type="TIME" value="1990-08-15T13:37"><FILEID>08-15-90 1337EDT</FILEID></TIMEX3>
+<FIRST>u i PM-GulfRdp 8thLd-Writethru   08-15 1334</FIRST>
+<SECOND>PM-Gulf Rdp, 8th Ld-Writethru,a0605,1368</SECOND>
+<HEAD>Saddam Seeks End To War With Iran; Bush To Urge Jordan To Close
+Port</HEAD>
+<NOTE>Eds: SUBS 28th graf pvs, Crown Prince... to CORRECT spelling of
+Hassan; pick up 29th graf pvs, `A CBS...'</NOTE>
+<HEAD>LaserPhotos WX6,7,XSAV1,NY5,10,TOK1,XAAFB1,AMM1, LaserColor XAAFB1</HEAD>
+<BYLINE>By CHRISTOPHER BURNS</BYLINE>
+<BYLINE>Associated Press Writer</BYLINE>
+<TEXT>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON"><ENAMEX TYPE="LOCATION">Iraq</ENAMEX>'s Saddam Hussein</ENAMEX></HEAD></NG>, <EVENT class="STATE" eid="e5"><VG-VBG>facing</VG-VBG></EVENT> <NG><HEAD><ENAMEX TYPE="LOCATION">U.S.</ENAMEX></HEAD></NG> and <NG>Arab <HEAD>troops</HEAD></NG> <PG>at</PG> <NG>the Saudi
+<HEAD>border</HEAD></NG>, <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t4" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3> <EVENT class="I_ACTION" eid="e6"><VG>sought</VG></EVENT> <EVENT class="STATE" eid="e7"><NG><HEAD>peace</HEAD></NG></EVENT> <PG>on</PG> <NG>another <HEAD>front</HEAD></NG> <NG>by <EVENT class="I_ACTION" eid="e8">promising</EVENT></NG> <VG-INF>to
+<EVENT class="OCCURRENCE" eid="e9">withdraw</EVENT></VG-INF> <PG>from</PG> <NG>Iranian <HEAD>territory</HEAD></NG> and <NG><EVENT class="OCCURRENCE" eid="e10">release</EVENT> <HEAD>soldiers</HEAD></NG> <EVENT class="OCCURRENCE" eid="e11"><VG-VBN>captured</VG-VBN></EVENT>
+<SIGNAL sid="s12"><PG>during</PG></SIGNAL> <NG>the Iran-Iraq <EVENT class="OCCURRENCE" eid="e13"><HEAD>war</HEAD></EVENT></NG>.</s>
+   <s><RG>Also</RG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t14" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3>, <NG><HEAD><ENAMEX TYPE="PERSON">King Hussein of <ENAMEX TYPE="LOCATION">Jordan</ENAMEX></ENAMEX></HEAD></NG> <EVENT class="OCCURRENCE" eid="e15"><VG>arrived</VG></EVENT> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="PERSON">Washington <EVENT class="I_ACTION" eid="e16">seeking</EVENT></ENAMEX></HEAD></NG>
+<VG-INF>to <EVENT class="OCCURRENCE" eid="e17">mediate</EVENT></VG-INF> <NG>the <ENAMEX TYPE="LOCATION">Persian Gulf</ENAMEX> <EVENT class="OCCURRENCE" eid="e18"><HEAD>crisis</HEAD></EVENT></NG>.</s> <s><NG><HEAD><ENAMEX TYPE="PERSON">President Bush</ENAMEX></HEAD></NG> <SIGNAL sid="s487"><PG>on</PG></SIGNAL> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t22" type="DATE" value="1990-08-14"><NG><TIMEX TYPE="DATE">Tuesday</TIMEX></NG></TIMEX3> <EVENT class="REPORTING" eid="e19"><VG>said</VG></EVENT>
+<NG>the <HEAD><ENAMEX TYPE="LOCATION">United States</ENAMEX></HEAD></NG> <VG>may <EVENT class="OCCURRENCE" eid="e23">extend</EVENT></VG> <NG>its naval <EVENT class="OCCURRENCE" eid="e26"><HEAD>quarantine</HEAD></EVENT></NG> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Jordan</ENAMEX></HEAD></NG>'s <NG><ENAMEX TYPE="LOCATION">Red
+Sea</ENAMEX> <HEAD>port</HEAD></NG> <PG>of</PG> <NG><HEAD>Aqaba</HEAD></NG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e27">shut</EVENT> off</VG-INF> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>'s <NG>last unhindered trade <HEAD>route</HEAD></NG>.</s>
+   <s><PG>In</PG> <NG>another mediation <HEAD>effort</HEAD></NG>, <NG>the <HEAD><ENAMEX TYPE="LOCATION">Soviet Union</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e28"><VG>said</VG></EVENT> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t380" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3> <NG>it</NG> <VG>had
+<EVENT class="OCCURRENCE" eid="e29">sent</EVENT></VG> <NG>an <HEAD>envoy</HEAD></NG> <PG>to</PG> <NG>the <HEAD><ENAMEX TYPE="LOCATION">Middle East</ENAMEX></HEAD></NG> <PG>on</PG> <NG>a <HEAD>series</HEAD></NG> <PG>of</PG> <EVENT class="OCCURRENCE" eid="e387"><NG><HEAD>stops</HEAD></NG></EVENT> <VG-INF>to include</VG-INF>
+<NG><HEAD><ENAMEX TYPE="LOCATION">Baghdad</ENAMEX></HEAD></NG>.</s> <s><NG>Soviet <HEAD>officials</HEAD></NG> <VG>also <EVENT class="REPORTING" eid="e30">said</EVENT></VG> <NG>Soviet <HEAD>women</HEAD></NG>, <NG><HEAD>children</HEAD></NG> and
+<NG><HEAD>invalids</HEAD></NG> <VG>would be <EVENT class="I_ACTION" eid="e33">allowed</EVENT></VG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e34">leave</EVENT></VG-INF> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON">President Bush</ENAMEX></HEAD></NG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t37" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3> <EVENT class="OCCURRENCE" eid="e35"><VG>denounced</VG></EVENT> <NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG>'s ``<NG>ruinous <HEAD>policies</HEAD></NG> <PG>of</PG>
+<NG><HEAD>war</HEAD></NG>,'' and <EVENT class="REPORTING" eid="e38"><VG>said</VG></EVENT> <NG>the <HEAD><ENAMEX TYPE="LOCATION">United States</ENAMEX></HEAD></NG> <VG>is</VG> ``<EVENT class="OCCURRENCE" eid="e39"><NG>striking</NG></EVENT> <NG>a <HEAD>blow</HEAD></NG> <PG>for</PG> <NG>the
+<HEAD>principle</HEAD></NG> that <VG>might</VG> <VG>does not make</VG> <NG><HEAD>right</HEAD></NG>.''</s>
+   <s><PG>In</PG> <NG>a <EVENT class="OCCURRENCE" eid="e40"><HEAD>speech</HEAD></EVENT></NG> <EVENT class="OCCURRENCE" eid="e41"><VG-VBN>delivered</VG-VBN></EVENT> <PG>at</PG> <NG>the <HEAD><ENAMEX TYPE="ORGANIZATION">Pentagon</ENAMEX></HEAD></NG>, <NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG> <EVENT class="I_STATE" eid="e42"><VG>seemed</VG></EVENT> <VG-INF>to <EVENT class="I_ACTION" eid="e43">suggest</EVENT></VG-INF>
+that <NG>American <HEAD>forces</HEAD></NG> <VG>could be</VG> <EVENT class="STATE" eid="e1515"><PG>in</PG></EVENT> <NG>the gulf <HEAD>region</HEAD></NG> <PG>for</PG> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t47" type="DURATION" value="PXM"><NG>some <HEAD>time</HEAD></NG></TIMEX3>.</s>
+<s>``<NG>No one</NG> <VG>should <EVENT class="I_ACTION" eid="e50">doubt</EVENT></VG> <NG>our staying <HEAD>power</HEAD></NG> or <NG><HEAD>determination</HEAD></NG>,'' <NG>he</NG> <EVENT class="REPORTING" eid="e52"><VG>said</VG></EVENT>.</s>
+   <s><NG>The U.S. military <EVENT class="OCCURRENCE" eid="e53"><HEAD>buildup</HEAD></EVENT></NG> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG> <EVENT class="ASPECTUAL" eid="e54"><VG>continued</VG></EVENT> <PG>at</PG> <NG>fever
+<HEAD>pace</HEAD></NG>, <PG>with</PG> <NG>Syrian <HEAD>troops</HEAD> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t56" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="STATE" eid="e57"><HEAD>part</HEAD></EVENT></NG> <PG>of</PG> <NG>a multinational <HEAD>force</HEAD></NG> <EVENT class="OCCURRENCE" eid="e58"><VG-VBN>camped</VG-VBN></EVENT>
+out <PG>in</PG> <NG>the <HEAD>desert</HEAD></NG> <VG-INF>to <EVENT class="I_ACTION" eid="e59">guard</EVENT></VG-INF> <NG>the Saudi <HEAD>kingdom</HEAD></NG> <PG>from</PG> <NG>any new <EVENT class="OCCURRENCE" eid="e60"><HEAD>thrust</HEAD></EVENT></NG> <NG>by
+<HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>.</s>
+   <s><SIGNAL sid="s522"><PG>In</PG></SIGNAL> <NG>a <HEAD>letter</HEAD></NG> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="PERSON">President Hashemi Rafsanjani of <ENAMEX TYPE="LOCATION">Iran</ENAMEX></ENAMEX></HEAD></NG>, <EVENT class="OCCURRENCE" eid="e61"><VG>read</VG></EVENT> <PG>by</PG> <NG>a
+<HEAD>broadcaster</HEAD></NG> <PG>over</PG> <NG><ENAMEX TYPE="LOCATION">Baghdad</ENAMEX> <HEAD>radio</HEAD></NG>, <NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e62"><VG>said</VG></EVENT> <NG>he</NG> <VG>will <EVENT class="ASPECTUAL" eid="e63">begin</EVENT></VG>
+<EVENT class="OCCURRENCE" eid="e64"><VG-VBG>withdrawing</VG-VBG></EVENT> <NG><HEAD>troops</HEAD></NG> <PG>from</PG> <NG>Iranian <HEAD>territory</HEAD></NG> <PG>on</PG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t65" type="DATE" value="1990-08-10"><NG><TIMEX TYPE="DATE">Friday</TIMEX></NG></TIMEX3> and <NG><EVENT class="OCCURRENCE" eid="e66"><HEAD>release</HEAD></EVENT>
+Iranian <HEAD>prisoners</HEAD></NG> <PG>of</PG> <NG><HEAD>war</HEAD></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="LOCATION">Iran</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e67"><VG>said</VG></EVENT> <NG>an Iraqi diplomatic <HEAD>delegation</HEAD></NG> <VG>was</VG> <PG>en</PG> <EVENT class="STATE" eid="e68"><NG><HEAD>route</HEAD></NG></EVENT> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Tehran</ENAMEX></HEAD></NG>
+<VG-INF>to <EVENT class="OCCURRENCE" eid="e69">deliver</EVENT></VG-INF> <NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG>'s <NG><HEAD>message</HEAD></NG>, which <NG>it</NG> <EVENT class="REPORTING" eid="e70"><VG>said</VG></EVENT> <NG>it</NG> <VG>would</VG> <EVENT class="OCCURRENCE" eid="e73"><NG><HEAD>review</HEAD></NG></EVENT> ``<PG>with</PG>
+<NG><HEAD>optimism</HEAD></NG>.''</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG> <EVENT class="I_STATE" eid="e74"><VG>appeared</VG></EVENT> <VG-INF>to <EVENT class="I_ACTION" eid="e75">accept</EVENT></VG-INF> <NG>a border demarcation <EVENT class="OCCURRENCE" eid="e76"><HEAD>treaty</HEAD></EVENT></NG> <NG>he</NG> <VG>had
+<EVENT class="OCCURRENCE" eid="e77">rejected</EVENT></VG> <SIGNAL sid="s580"><PG>in</PG></SIGNAL> <NG>peace <EVENT class="OCCURRENCE" eid="e78"><HEAD>talks</HEAD></EVENT></NG> <EVENT class="OCCURRENCE" eid="e1509"><VG-VBG>following</VG-VBG></EVENT> <NG>the <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t79" type="DATE" value="1988-08"><TIMEX TYPE="DATE">August 1988</TIMEX></TIMEX3> <EVENT class="OCCURRENCE" eid="e80"><HEAD>cease-fire</HEAD></EVENT></NG> <PG>of</PG> <NG>the
+<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t82" type="DURATION" value="P8Y">eight-year</TIMEX3> <EVENT class="OCCURRENCE" eid="e81"><HEAD>war</HEAD></EVENT></NG> <PG>with</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iran</ENAMEX></HEAD></NG>.</s>
+   <s><NG>The <HEAD>move</HEAD></NG> <EVENT class="I_STATE" eid="e83"><VG>seemed</VG></EVENT> <EVENT class="I_ACTION" eid="e84"><VG-VBN>aimed</VG-VBN></EVENT> <PG>at</PG> <VG-VBG><EVENT class="I_ACTION" eid="e85">heading</EVENT> off</VG-VBG> <NG>more <EVENT class="OCCURRENCE" eid="e86"><HEAD>trouble</HEAD></EVENT></NG> <PG>with</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iran</ENAMEX></HEAD></NG>,
+which <VG>had <EVENT class="OCCURRENCE" eid="e87">condemned</EVENT></VG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>'s <EVENT class="OCCURRENCE" eid="e88"><NG><HEAD>invasion</HEAD></NG></EVENT> <PG>of</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> <SIGNAL sid="s626"><PG>on</PG></SIGNAL> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t89" type="DATE" value="1990-08-02"><NG><TIMEX TYPE="DATE">Aug. 2</TIMEX></NG></TIMEX3> but <VG>also
+<EVENT class="OCCURRENCE" eid="e90">criticized</EVENT></VG> <NG>the multinational <HEAD>force</HEAD></NG> <EVENT class="OCCURRENCE" eid="e91"><VG-VBN>dispatched</VG-VBN></EVENT> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e92"><VG>said</VG></EVENT> <NG>he</NG> <EVENT class="I_ACTION" eid="e93"><VG>sought</VG></EVENT> <VG-INF>to ``<EVENT class="OCCURRENCE" eid="e94">turn</EVENT></VG-INF> <NG>the <HEAD>gulf</HEAD></NG> <PG>into</PG> <NG>a <HEAD>lake</HEAD></NG> <PG>of</PG> <EVENT class="STATE" eid="e95"><NG><HEAD>peace</HEAD></NG></EVENT>
+<EVENT class="STATE" eid="e96"><NG>free</NG></EVENT> <PG>of</PG> <NG>foreign <HEAD>fleets</HEAD> and <HEAD>forces</HEAD></NG> that <NG><EVENT class="OCCURRENCE" eid="e97"><HEAD>harbor</HEAD></EVENT> ill <HEAD>intentions</HEAD></NG>
+<PG>against</PG> <NG>us</NG>.''</s>
+   <s><PG>In</PG> <NG>other <HEAD>developments</HEAD></NG>:
+   <VG-VBG>_</VG-VBG><NG>The <HEAD><ENAMEX TYPE="ORGANIZATION">Pentagon</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e98"><VG>said</VG></EVENT> that <NG><HEAD><ENAMEX TYPE="PERSON"><ENAMEX TYPE="ORGANIZATION">Defense</ENAMEX> Secretary Dick Cheney</ENAMEX></HEAD></NG> <VG>is
+<EVENT class="I_STATE" eid="e99">considering</EVENT></VG> <EVENT class="I_ACTION" eid="e100"><VG-VBG>urging</VG-VBG></EVENT> <NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG> <PG>to</PG> <EVENT class="I_ACTION" eid="e101"><NG><HEAD>order</HEAD></NG></EVENT> <NG>a national <EVENT class="OCCURRENCE" eid="e102"><HEAD>callup</HEAD></EVENT></NG> <PG>of</PG> <NG>armed forces
+<HEAD>reserves</HEAD></NG> <PG>for</PG> <NG>active <EVENT class="OCCURRENCE" eid="e103"><HEAD>duty</HEAD></EVENT></NG> <PG>because</PG> <PG>of</PG> <NG>the <EVENT class="OCCURRENCE" eid="e104"><HEAD>drain</HEAD></EVENT></NG> <PG>on</PG> <NG><HEAD>units</HEAD></NG> <EVENT class="OCCURRENCE" eid="e106"><VG-VBG>sending</VG-VBG></EVENT>
+<NG><HEAD>soldiers</HEAD></NG> <RG>abroad</RG>.</s> <s><NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG> <VG>can <EVENT class="OCCURRENCE" eid="e107">call</EVENT></VG> up <PG>to</PG> <NG><CARDINAL>200,000</CARDINAL> <HEAD>reservists</HEAD></NG> <SIGNAL sid="s723"><PG>for</PG></SIGNAL> <TIMEX3 functionInDocument="NONE" mod="EQUAL_OR_LESS" temporalFunction="false" tid="t719" type="DURATION" value="P180D"><VG>up</VG> <PG>to</PG>
+<NG><CARDINAL>180</CARDINAL> <HEAD>days</HEAD></NG></TIMEX3> <PG>without</PG> <EVENT class="I_ACTION" eid="e110"><VG-VBG>seeking</VG-VBG></EVENT> <NG>congressional <EVENT class="OCCURRENCE" eid="e722"><HEAD>approval</HEAD></EVENT></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON"><ENAMEX TYPE="ORGANIZATION">_Soviet Foreign Ministry</ENAMEX> spokesman Yuri Gremitskikh</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e112"><VG>said</VG></EVENT> <NG>special
+<HEAD><ENAMEX TYPE="PERSON">ambassador Mikhail Sytenko</ENAMEX></HEAD></NG> <EVENT class="OCCURRENCE" eid="e113"><VG>left</VG></EVENT> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t114" type="DATE" value="1990-08-14"><NG><TIMEX TYPE="DATE">Tuesday</TIMEX></NG></TIMEX3> <SIGNAL sid="s762"><PG>for</PG></SIGNAL> <EVENT class="OCCURRENCE" eid="e116"><NG><HEAD>consultations</HEAD></NG></EVENT> <PG>with</PG> <NG>the
+<HEAD>governments</HEAD></NG> <PG>of</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Syria</ENAMEX></HEAD></NG>, <NG><HEAD><ENAMEX TYPE="LOCATION">Jordan</ENAMEX></HEAD></NG>, <NG><HEAD><ENAMEX TYPE="LOCATION">Egypt</ENAMEX></HEAD></NG> and <NG>other Arab <HEAD>countries</HEAD></NG>.</s>
+<s><NG><HEAD><ENAMEX TYPE="PERSON">Sytenko, a former deputy secretary-general of the <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX></ENAMEX></HEAD></NG>,
+<VG>is also <EVENT class="OCCURRENCE" eid="e117">expected</EVENT></VG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e767">visit</EVENT></VG-INF> <NG><HEAD><ENAMEX TYPE="LOCATION">Baghdad</ENAMEX></HEAD></NG>, <NG><HEAD><ENAMEX TYPE="PERSON">Gremitskikh</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e118"><VG>said</VG></EVENT> <SIGNAL sid="s774"><PG>at</PG></SIGNAL> <NG>a regular
+news <EVENT class="OCCURRENCE" eid="e119"><HEAD>briefing</HEAD></EVENT></NG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t120" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3>.</s>
+   <s><VG-VBG>_</VG-VBG><NG>The <HEAD>outlook</HEAD></NG> <EVENT class="OCCURRENCE" eid="e121"><VG>darkened</VG></EVENT> <PG>for</PG> <NG><CARDINAL>about 3,000</CARDINAL> <HEAD>Americans</HEAD></NG> <EVENT class="OCCURRENCE" eid="e122"><VG>caught</VG></EVENT> <NG><HEAD><ENAMEX TYPE="PERSON">in Iraq</ENAMEX></HEAD></NG>
+and <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> when <NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG> <EVENT class="OCCURRENCE" eid="e123"><VG>sent</VG></EVENT> <NG>his <HEAD>forces</HEAD></NG> <PG>into</PG> <NG>the <HEAD>small</HEAD></NG>, <NG>oil-rich
+<HEAD>sultanate</HEAD></NG>.</s>
+   <s><NG>The Iraqi</NG> ambassador to <NG><HEAD><ENAMEX TYPE="LOCATION">Greece</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e124"><VG>said</VG></EVENT> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Athens</ENAMEX></HEAD></NG> <NG>the <HEAD>Americans</HEAD></NG> and
+<NG>other <EVENT class="STATE" eid="e1514">stranded</EVENT> <HEAD>foreigners</HEAD></NG> <VG>could <EVENT class="OCCURRENCE" eid="e126">leave</EVENT></VG> ``<SIGNAL sid="s807"><PG>as</PG> <PG>soon as</PG></SIGNAL> <NG>the <EVENT class="OCCURRENCE" eid="e127"><HEAD>threats</HEAD></EVENT></NG> <PG>from</PG>
+<NG>the <HEAD><ENAMEX TYPE="LOCATION">United States</ENAMEX></HEAD></NG> and <NG>its <HEAD>allies</HEAD></NG> <VG>are <EVENT class="OCCURRENCE" eid="e128">eliminated</EVENT></VG>.''</s> <s><NG><HEAD><ENAMEX TYPE="ORGANIZATION">ABC</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e129"><VG>quoted</VG></EVENT> <NG>an
+<ENAMEX TYPE="ORGANIZATION">Iraqi Foreign Ministry</ENAMEX> <HEAD>official</HEAD></NG> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Baghdad</ENAMEX></HEAD></NG> <PG>as</PG> <EVENT class="REPORTING" eid="e130"><VG-VBG>saying</VG-VBG></EVENT> <NG><HEAD>Americans</HEAD></NG> <PG>in</PG>
+<NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <VG>are</VG> ``<NG><HEAD>restrictees</HEAD></NG>'' who <VG>will <EVENT class="STATE" eid="e131">stay</EVENT></VG> <NG>there</NG> <SIGNAL sid="s834"><PG>until</PG></SIGNAL> <NG>the <EVENT class="OCCURRENCE" eid="e132"><HEAD>crisis</HEAD></EVENT></NG> <EVENT class="ASPECTUAL" eid="e133"><VG>ends</VG></EVENT>.</s>
+   <s><VG-VBG>_</VG-VBG><NG>The <HEAD><ENAMEX TYPE="ORGANIZATION">Soviet Foreign Ministry</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e134"><VG>said</VG></EVENT> <NG>Soviet <HEAD>women</HEAD></NG>, <NG><HEAD>children</HEAD></NG> and
+<NG><HEAD>invalids</HEAD></NG> <VG>would be <EVENT class="I_ACTION" eid="e136">permitted</EVENT></VG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e137">leave</EVENT></VG-INF> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>.</s> <s><NG><HEAD><ENAMEX TYPE="PERSON">Spokesman Yuri
+Gremitskikh</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e138"><VG>said</VG></EVENT> <NG>the first <HEAD>group</HEAD></NG> <PG>of</PG> <NG><CARDINAL>230</CARDINAL> <HEAD>evacuees</HEAD></NG> <VG>was <EVENT class="OCCURRENCE" eid="e139">assembling</EVENT></VG> <PG>in</PG>
+<NG><HEAD><ENAMEX TYPE="LOCATION">Baghdad</ENAMEX></HEAD></NG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t140" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3>, but <NG><EVENT class="OCCURRENCE" eid="e145">evacuation</EVENT> <EVENT class="I_STATE" eid="e143"><HEAD>plans</HEAD></EVENT></NG> <VG>were <EVENT class="OCCURRENCE" eid="e144">hampered</EVENT></VG> by <NG>desert <HEAD>heat</HEAD></NG>
+and <NG><HEAD>lack</HEAD></NG> <PG>of</PG> <NG><HEAD>transportation</HEAD></NG>.</s>
+   <s><RG>Nearly</RG> <NG><CARDINAL>9,000</CARDINAL> <HEAD>Soviets</HEAD></NG> <VG>were</VG> <PG>among</PG> <NG>the <HEAD>hundreds</HEAD></NG> <PG>of</PG> <NG><HEAD>thousands</HEAD></NG> <PG>of</PG>
+<NG><HEAD>foreigners</HEAD></NG> <EVENT class="STATE" eid="e146"><VG-VBN>trapped</VG-VBN></EVENT> <NG><HEAD><ENAMEX TYPE="PERSON">in Iraq</ENAMEX></HEAD></NG> and <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG>.</s> <s><NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <VG>has <EVENT class="I_ACTION" eid="e147">agreed</EVENT></VG> <VG-INF>to <EVENT class="I_ACTION" eid="e148">allow</EVENT></VG-INF> <NG>all
+<CARDINAL>880</CARDINAL> <HEAD>Soviets</HEAD></NG> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e149">leave</EVENT></VG-INF>, but <PG>only by</PG> <NG>a 1,200-mile road <HEAD>route</HEAD></NG>
+<PG>through</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> and <PG>to</PG> <NG>the Iraq-Jordan <HEAD>border</HEAD></NG>.</s>
+   <s><VG-VBG>_</VG-VBG><NG>The <HEAD><ENAMEX TYPE="ORGANIZATION">British Foreign Office</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e150"><VG>said</VG></EVENT> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t151" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3> <NG><HEAD>conditions</HEAD></NG> in <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG>
+<EVENT class="I_STATE" eid="e152"><VG>appear</VG></EVENT> <VG-INF>to be <EVENT class="OCCURRENCE" eid="e153">deteriorating</EVENT></VG-INF>.</s> <s><NG>There</NG> <VG>have been</VG> <EVENT class="OCCURRENCE" eid="e154"><NG><HEAD>reports</HEAD></NG></EVENT> <PG>of</PG> <NG>wholesale
+<HEAD>looting</HEAD></NG> but <NG><HEAD>food</HEAD></NG> and <NG><HEAD>gasoline</HEAD></NG> <VG>were</VG> <JG>still <EVENT class="STATE" eid="e155">available</EVENT></JG>, <EVENT class="REPORTING" eid="e156"><VG>said</VG></EVENT> <NG>a
+<HEAD>spokesman</HEAD></NG>, who <PG>by</PG> <NG><HEAD>custom</HEAD></NG> <VG>was not <EVENT class="OCCURRENCE" eid="e158">identified</EVENT></VG>.</s> <s><NG><HEAD>Banks</HEAD></NG> <EVENT class="ASPECTUAL" eid="e159"><VG>remained</VG></EVENT> <EVENT class="STATE" eid="e941"><VG-VBN>closed</VG-VBN></EVENT>.</s>
+   <s><VG-VBG>_</VG-VBG><NG>The Iraqi</NG> ambassador to <NG><HEAD><ENAMEX TYPE="LOCATION">Venezuela</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e160"><VG>said</VG></EVENT> <PG>on</PG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t162" type="DATE" value="1990-08-14"><NG><TIMEX TYPE="DATE">Tuesday</TIMEX></NG></TIMEX3> that <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>
+<VG>would <EVENT class="OCCURRENCE" eid="e165">retaliate</EVENT></VG> <PG>against</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Venezuela</ENAMEX></HEAD></NG> and <NG>other OPEC oil cartel <HEAD>members</HEAD></NG>
+<SIGNAL sid="s960"><PG>if</PG></SIGNAL> <NG>they</NG> <EVENT class="OCCURRENCE" eid="e166"><VG>boost</VG></EVENT> <NG>oil <HEAD>production</HEAD></NG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e167">fill</EVENT></VG-INF> <NG>the <HEAD>gap</HEAD></NG> <EVENT class="OCCURRENCE" eid="e168"><VG-VBN>created</VG-VBN></EVENT> by <EVENT class="OCCURRENCE" eid="e169"><VG>blocked</VG></EVENT>
+<NG><HEAD>supplies</HEAD></NG> <PG>from</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> and <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG>.</s> <s><PG>With</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> <VG-VBN><TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t170" type="DATE" value="1990-08-15T13:37">now</TIMEX3> ``<EVENT class="STATE" eid="e171">annexed</EVENT></VG-VBN>,'' <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>
+<VG>has <EVENT class="STATE" eid="e172">control</EVENT></VG> <PG>of</PG> <NG><HEAD><NUMEX TYPE="PERCENT">20 percent</NUMEX></HEAD></NG> <PG>of</PG> <NG>the <HEAD>world</HEAD></NG>'s <NG>oil <HEAD>reserves</HEAD></NG>.</s> <s><NG>A steep <EVENT class="OCCURRENCE" eid="e173"><HEAD>rise</HEAD></EVENT></NG>
+<PG>in</PG> <NG>world oil <HEAD>prices</HEAD></NG> <SIGNAL sid="s174"><VG>followed</VG></SIGNAL> <NG>the <ENAMEX TYPE="LOCATION">Kuwait</ENAMEX> <EVENT class="OCCURRENCE" eid="e175"><HEAD>invasion</HEAD></EVENT></NG>.</s>
+   <s><NG>The <HEAD><ENAMEX TYPE="ORGANIZATION">U.N. Security Council</ENAMEX></HEAD></NG> <PG>on</PG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t176" type="DATE" value="1990-08-06"><NG><TIMEX TYPE="DATE">Aug. 6</TIMEX></NG></TIMEX3> <EVENT class="I_ACTION" eid="e177"><VG>ordered</VG></EVENT> <NG>a global <EVENT class="OCCURRENCE" eid="e178"><HEAD>embargo</HEAD></EVENT></NG> <PG>on</PG>
+<NG><HEAD>trade</HEAD></NG> <PG>with</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <PG>as</PG> <EVENT class="OCCURRENCE" eid="e179"><NG><HEAD>punishment</HEAD></NG></EVENT> <PG>for</PG> <EVENT class="OCCURRENCE" eid="e180"><VG-VBG>seizing</VG-VBG></EVENT> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG>.</s> <s><NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG> <VG><SIGNAL sid="s1026">then</SIGNAL> <EVENT class="OCCURRENCE" eid="e181">sent</EVENT></VG>
+<NG><ENAMEX TYPE="LOCATION">U.S.</ENAMEX> <HEAD>troops</HEAD></NG> and <NG><HEAD>planes</HEAD></NG> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG>, <EVENT class="REPORTING" eid="e182"><VG-VBG>saying</VG-VBG></EVENT> <NG>Iraqi <HEAD>troops</HEAD></NG> <EVENT class="OCCURRENCE" eid="e183"><VG>massed</VG></EVENT>
+<JG>nearby</JG> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> <EVENT class="OCCURRENCE" eid="e184"><VG>threatened</VG></EVENT> <NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG> and <NG>its vast oil <HEAD>reserves</HEAD></NG>.</s>
+   <s><NG><CARDINAL>Twelve</CARDINAL> <ENAMEX TYPE="ORGANIZATION">Arab League</ENAMEX> <HEAD>nations</HEAD></NG> <EVENT class="OCCURRENCE" eid="e185"><VG>voted</VG></EVENT> <PG>for</PG> <NG>an Arab <HEAD>force</HEAD></NG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e186">protect</EVENT></VG-INF>
+<NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG>, <PG>with</PG> <NG>the <HEAD>vanguard</HEAD></NG> <PG>of</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Syria</ENAMEX></HEAD></NG>'s <NG>contingent</NG> <EVENT class="OCCURRENCE" eid="e187"><VG-VBG>arriving</VG-VBG></EVENT>
+<TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t188" type="DATE" value="1990-08-07"><NG><TIMEX TYPE="DATE">Tuesday</TIMEX></NG></TIMEX3>, <IN-MW><EVENT class="REPORTING" eid="e190">according</EVENT> to</IN-MW> <NG>diplomatic <HEAD>sources</HEAD></NG> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Riyadh</ENAMEX></HEAD></NG>, <NG>the Saudi
+<HEAD>capital</HEAD></NG>.</s>
+   <s><NG>Egyptian</NG> and <NG>Moroccan <HEAD>troops</HEAD></NG> <VG>are <SIGNAL sid="s192">already</SIGNAL></VG> <EVENT class="STATE" eid="e1078"><NG>there</NG></EVENT>.</s>
+   <s><NG>The predominantly Moslem <HEAD>nation</HEAD></NG> <PG>of</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Bangladesh</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e193"><VG>said</VG></EVENT> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t194" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3> <NG>its
+<HEAD>troops</HEAD></NG> <VG>would <EVENT class="OCCURRENCE" eid="e196">join</EVENT></VG> <NG>multinational <HEAD>forces</HEAD></NG> in <NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG>.</s> <s><NG>The <HEAD>size</HEAD></NG> <PG>of</PG>
+<NG>the <HEAD>contingent</HEAD></NG> <VG>was not <EVENT class="REPORTING" eid="e198">disclosed</EVENT></VG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="LOCATION">Turkey</ENAMEX></HEAD></NG> and <NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG> in <NG><HEAD>effect</HEAD></NG> <EVENT class="OCCURRENCE" eid="e199"><VG-VBG>shut</VG-VBG></EVENT> <NG><HEAD><ENAMEX TYPE="PERSON">down Iraq</ENAMEX></HEAD></NG>'s <NG>major oil
+<HEAD>outlets</HEAD></NG> <PG>through</PG> <NG>those <HEAD>countries</HEAD></NG>, but <IN-MW><EVENT class="REPORTING" eid="e200">according</EVENT> to</IN-MW> <NG>Jordanian
+<HEAD>officials</HEAD></NG>, <NG>a smaller <HEAD>line</HEAD></NG> <PG>into</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Jordan</ENAMEX></HEAD></NG> <EVENT class="I_STATE" eid="e201"><VG>remained</VG></EVENT> <EVENT class="OCCURRENCE" eid="e202"><NG><HEAD>operating</HEAD></NG></EVENT>.</s>
+   <s><NG><HEAD>Truckloads</HEAD></NG> <PG>of</PG> <NG><HEAD>goods</HEAD></NG> <EVENT class="OCCURRENCE" eid="e203"><VG>rolled</VG></EVENT> <PG>into</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <PG>from</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Jordan</ENAMEX></HEAD></NG> <SIGNAL sid="s1119"><PG>on</PG></SIGNAL> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t204" type="DATE" value="1990-08-07"><NG><TIMEX TYPE="DATE">Tuesday</TIMEX></NG></TIMEX3> and
+<NG>Iraqi-bound <HEAD>cargo</HEAD></NG> <VG>was</VG> <EVENT class="OCCURRENCE" eid="e206"><JG>unloaded</JG></EVENT> <PG>from</PG> <NG><HEAD>ships</HEAD></NG> <PG>at</PG> <NG>the <ENAMEX TYPE="LOCATION">Red Sea</ENAMEX> port
+<HEAD>ofAqaba</HEAD></NG> <PG>despite</PG> <NG>the U.N.-ordered <EVENT class="OCCURRENCE" eid="e207"><HEAD>sanctions</HEAD></EVENT></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON">King Hussein</ENAMEX></HEAD></NG> <VG>was reportedly <EVENT class="OCCURRENCE" eid="e208">carrying</EVENT></VG> <NG>a <HEAD>message</HEAD></NG> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="PERSON">Bush from
+<ENAMEX TYPE="LOCATION">Iraq</ENAMEX></ENAMEX></HEAD></NG>'s <NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG>, <PG>with</PG> whom <NG>the <HEAD>king</HEAD></NG> <EVENT class="OCCURRENCE" eid="e209"><VG>met</VG></EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t210" type="DATE" value="1990-08-06"><NG><TIMEX TYPE="DATE">Monday</TIMEX></NG></TIMEX3>.</s> <s><NG>The <HEAD>monarch</HEAD></NG> <VG>will <EVENT class="OCCURRENCE" eid="e211">meet</EVENT></VG>
+<NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG> <PG>on</PG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t213" type="DATE" value="1990-08-09"><NG><TIMEX TYPE="DATE">Thursday</TIMEX></NG></TIMEX3> <PG>in</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Kennebunkport</ENAMEX></HEAD></NG>, <NG><HEAD><ENAMEX TYPE="LOCATION">Maine</ENAMEX></HEAD></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON"><ENAMEX TYPE="ORGANIZATION">Crown</ENAMEX> Prince Hassan</ENAMEX></HEAD></NG>, <NG><HEAD><ENAMEX TYPE="PERSON">King Hussein</ENAMEX></HEAD></NG>'s <NG><HEAD>brother</HEAD></NG> and <NG>political
+<HEAD>adviser</HEAD></NG>, <VG>was <EVENT class="OCCURRENCE" eid="e214">asked</EVENT></VG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t215" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3> <PG>about</PG> <NG>the <HEAD>message</HEAD></NG> <NG>the <HEAD>king</HEAD></NG> <VG>was <EVENT class="REPORTING" eid="e216">said</EVENT></VG> <VG-INF>to be
+<EVENT class="OCCURRENCE" eid="e217">carrying</EVENT></VG-INF>.</s> <s><PG>In</PG> <NG>an <EVENT class="OCCURRENCE" eid="e218"><HEAD>interview</HEAD></EVENT></NG> <PG>from</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Jordan</ENAMEX></HEAD></NG> <PG>on</PG> <NG><HEAD><ENAMEX TYPE="ORGANIZATION">ABC</ENAMEX></HEAD></NG>, <NG>he</NG> <EVENT class="I_ACTION" eid="e219"><VG>declined</VG></EVENT> <VG-INF>to
+<EVENT class="OCCURRENCE" eid="e220">discuss</EVENT></VG-INF> <NG><HEAD>details</HEAD></NG>, but <EVENT class="REPORTING" eid="e221"><VG>said</VG></EVENT>: ``<NG>I</NG> <VG>don't <EVENT class="I_STATE" eid="e223">think</EVENT></VG> that <NG>his <HEAD>majesty</HEAD></NG> <VG>would
+be <EVENT class="OCCURRENCE" eid="e225">traveling</EVENT></VG> <PG>at</PG> <TIMEX3 anchorTimeID="t215" functionInDocument="NONE" temporalFunction="true" tid="t1192" type="DATE" value="PRESENT_REF"><NG>this crucial <HEAD>moment</HEAD></NG></TIMEX3> <PG>if</PG> <NG>the Iraqi <HEAD>leadership</HEAD></NG> <VG>did not
+have</VG> <NG>a rational <HEAD>approach</HEAD></NG> <PG>to</PG> <NG>the future</NG>.''</s>
+   <s><NG>A <ENAMEX TYPE="ORGANIZATION">CBS News</ENAMEX> <EVENT class="OCCURRENCE" eid="e229"><HEAD>report</HEAD></EVENT></NG> <EVENT class="REPORTING" eid="e230"><VG-VBG>citing</VG-VBG></EVENT> <NG>unidentified Jordanian <HEAD>sources</HEAD></NG> <EVENT class="REPORTING" eid="e231"><VG>said</VG></EVENT>
+that <NG><HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG>'s <NG><HEAD>message</HEAD></NG> <EVENT class="OCCURRENCE" eid="e232"><VG>called</VG></EVENT> <PG>for</PG> <NG>an international <EVENT class="OCCURRENCE" eid="e233"><HEAD>conference</HEAD></EVENT></NG> <VG-INF>to be
+<EVENT class="OCCURRENCE" eid="e234">convened</EVENT></VG-INF> <VG-INF>to <EVENT class="OCCURRENCE" eid="e235">discuss</EVENT></VG-INF> <NG>an Iraqi <EVENT class="OCCURRENCE" eid="e236"><HEAD>withdrawal</HEAD></EVENT></NG> <PG>from</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG>.</s> <s><PG>In</PG> <EVENT class="OCCURRENCE" eid="e237"><NG><HEAD>exchange</HEAD></NG></EVENT>,
+<NG>the <EVENT class="OCCURRENCE" eid="e238"><HEAD>buildup</HEAD></EVENT></NG> <PG>of</PG> <NG><ENAMEX TYPE="LOCATION">U.S.</ENAMEX> <HEAD>forces</HEAD></NG> <PG>in</PG> <NG>the <HEAD>region</HEAD></NG> <VG>would</VG> <EVENT class="OCCURRENCE" eid="e240"><NG><HEAD>halt</HEAD></NG></EVENT>.</s> <s><NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG>, <VG>however,
+<EVENT class="REPORTING" eid="e241">says</EVENT></VG> <NG>he</NG> <EVENT class="PERCEPTION" eid="e242"><VG>sees</VG></EVENT> <NG>no short-term <HEAD>hope</HEAD></NG> <PG>for</PG> <NG>a diplomatic <EVENT class="OCCURRENCE" eid="e243"><HEAD>solution</HEAD></EVENT></NG> <PG>to</PG> <NG>the
+gulf <EVENT class="OCCURRENCE" eid="e244">crisis</EVENT> <HEAD>_</HEAD></NG> <PG>at</PG> <NG>least</NG> <PG>until</PG> <NG>economic sanctions <EVENT class="OCCURRENCE" eid="e245"><HEAD>force</HEAD></EVENT> <HEAD><ENAMEX TYPE="PERSON">Saddam</ENAMEX></HEAD></NG> <VG-INF>to
+<EVENT class="OCCURRENCE" eid="e246">withdraw</EVENT></VG-INF> <NG>his <HEAD>army</HEAD></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG> <EVENT class="OCCURRENCE" eid="e247"><VG-VBN>held</VG-VBN></EVENT> <PG>out</PG> <NG>the <HEAD>prospect</HEAD></NG> <PG>of</PG> <NG>more <EVENT class="OCCURRENCE" eid="e248"><HEAD>aid</HEAD></EVENT></NG> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Jordan</ENAMEX></HEAD></NG> <SIGNAL sid="s1298"><PG>if</PG></SIGNAL> <NG>it</NG>
+<EVENT class="OCCURRENCE" eid="e249"><VG>cooperates</VG></EVENT> <PG>with</PG> <NG>the trade <EVENT class="OCCURRENCE" eid="e250"><HEAD>embargo</HEAD></EVENT></NG>.</s>
+   <s><PG>On</PG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t252" type="DATE" value="1990-08-07"><NG><TIMEX TYPE="DATE">Tuesday</TIMEX></NG></TIMEX3>, <NG>the <HEAD><ENAMEX TYPE="LOCATION">United States</ENAMEX></HEAD></NG> and <NG><HEAD><ENAMEX TYPE="LOCATION">Soviet Union</ENAMEX></HEAD></NG> <EVENT class="OCCURRENCE" eid="e253"><VG>conferred</VG></EVENT> <PG>in</PG>
+<NG><HEAD><ENAMEX TYPE="LOCATION">Washington</ENAMEX></HEAD></NG> <PG>on</PG> <EVENT class="OCCURRENCE" eid="e254"><VG-VBG>putting</VG-VBG></EVENT> <NG>an anti-<HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD> naval <EVENT class="OCCURRENCE" eid="e255"><HEAD>blockade</HEAD></EVENT></NG> <PG>under</PG> <NG>a <ENAMEX TYPE="ORGANIZATION">United
+Nations</ENAMEX> <HEAD>umbrella</HEAD></NG>.</s>
+   <s><NG>The <HEAD><ENAMEX TYPE="LOCATION">United States</ENAMEX></HEAD></NG> <VG>has <EVENT class="OCCURRENCE" eid="e256">provided</EVENT></VG> <JG>most</JG> <PG>of</PG> <NG>the naval <HEAD>vessels</HEAD></NG> <VG-INF>so far
+to block</VG-INF> <NG>Iraqi <HEAD>trade</HEAD></NG>, <PG>with</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Britain</ENAMEX></HEAD></NG>, <NG><HEAD><ENAMEX TYPE="LOCATION">West Germany</ENAMEX></HEAD></NG> and <NG><HEAD><ENAMEX TYPE="LOCATION">Australia</ENAMEX></HEAD></NG>
+<PG>among</PG> <NG>the other <HEAD>nations</HEAD></NG> <EVENT class="OCCURRENCE" eid="e257"><VG>lending</VG></EVENT> <VG-VBG>support</VG-VBG> <PG>at</PG> <NG><HEAD>sea</HEAD></NG>.</s>
+   <s><NG>The <EVENT class="OCCURRENCE" eid="e258"><HEAD>embargo</HEAD></EVENT></NG> <VG>is <EVENT class="I_STATE" eid="e259">meant</EVENT></VG> <VG-INF>to <EVENT class="OCCURRENCE" eid="e260">cripple</EVENT></VG-INF> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <PG>by</PG> <VG-VBG><EVENT class="OCCURRENCE" eid="e261">cutting</EVENT> off</VG-VBG> <NG>its <HEAD>exports</HEAD></NG>
+<PG>of</PG> <NG><HEAD>oil</HEAD></NG> and <NG><HEAD>imports</HEAD></NG> <PG>of</PG> <NG><HEAD>food</HEAD> and military <HEAD>supplies</HEAD></NG>.</s> <s><NG><ENAMEX TYPE="LOCATION">Iraq</ENAMEX> <EVENT class="OCCURRENCE" eid="e262"><HEAD>imports</HEAD></EVENT></NG>
+<PG>about</PG> <NG><HEAD>three-quarters</HEAD></NG> <PG>of</PG> <NG>its <HEAD>foodstuffs</HEAD></NG>.</s>
+   <s><NG>U.S. <HEAD>allies</HEAD></NG> and <NG>other <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> <HEAD>members</HEAD></NG> <VG>have <EVENT class="OCCURRENCE" eid="e263">objected</EVENT></VG> that <NG>the
+<ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX> embargo <EVENT class="OCCURRENCE" eid="e1362"><HEAD>resolution</HEAD></EVENT></NG> <VG>did not specifically <EVENT class="OCCURRENCE" eid="e266">authorize</EVENT></VG>
+<JG>such</JG> <NG>a naval <EVENT class="OCCURRENCE" eid="e267"><HEAD>operation</HEAD></EVENT></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="PERSON">Bush</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e268"><VG>told</VG></EVENT> <NG>a news <HEAD>conference</HEAD></NG> <PG>on</PG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t269" type="DATE" value="1990-08-07"><NG><TIMEX TYPE="DATE">Tuesday</TIMEX></NG></TIMEX3> that <NG>the naval <EVENT class="OCCURRENCE" eid="e270"><HEAD>barricade</HEAD></EVENT></NG>
+<TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t271" type="DATE" value="PRESENT_REF"><RG>now</RG></TIMEX3> <NG>in <HEAD>force</HEAD></NG> <VG>might be <EVENT class="OCCURRENCE" eid="e273">extended</EVENT></VG> <PG>to</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Jordan</ENAMEX></HEAD></NG>'s <NG><HEAD>Aqaba</HEAD></NG> ``<SIGNAL sid="s1397"><PG>if</PG></SIGNAL> <NG>it</NG> <VG>is</VG> <NG>a <HEAD>hole</HEAD></NG>
+<PG>through</PG> which <NG>commerce <EVENT class="OCCURRENCE" eid="e274"><HEAD>flows</HEAD></EVENT></NG>'' in and <PG>out</PG> <PG>of</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG>.</s>
+   <s><PG>In</PG> <NG><HEAD><ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX></HEAD></NG>, <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t275" type="DATE" value="1990-08-15"><NG><TIMEX TYPE="DATE">today</TIMEX></NG></TIMEX3> <VG>is</VG> the <TIMEX3 anchorTimeID="t275" functionInDocument="NONE" temporalFunction="true" tid="t276" type="DATE" value="1990-08-15">eighth day</TIMEX3> <PG>of</PG> ``<NG><HEAD>Desert Shield</HEAD></NG>,''
+<NG>the <EVENT class="OCCURRENCE" eid="e279"><HEAD>operation</HEAD></EVENT></NG> <EVENT class="I_ACTION" eid="e280"><VG-VBN>designed</VG-VBN></EVENT> <VG-INF>to <EVENT class="OCCURRENCE" eid="e281">confront</EVENT></VG-INF> <NG>an estimated</NG> <NG><CARDINAL>200,000</CARDINAL> Iraqi
+<HEAD>soldiers</HEAD></NG> <TIMEX3 anchorTimeID="t3" functionInDocument="NONE" temporalFunction="true" tid="t282" type="TIME" value="PRESENT_REF"><RG>now</RG></TIMEX3> <NG><EVENT class="STATE" eid="e1426">in</EVENT> <HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG>.</s> <s><NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <EVENT class="OCCURRENCE" eid="e283"><VG>boasts</VG></EVENT> <NG>an <HEAD>army</HEAD></NG> <PG>of</PG> <NG><CARDINAL>1 million</CARDINAL> <HEAD>members</HEAD></NG>.</s>
+<s><NG><CARDINAL>At least 50,000</CARDINAL> <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> <HEAD>troops</HEAD></NG> <VG>are <EVENT class="I_STATE" eid="e284">expected</EVENT></VG> <VG-INF>to be <EVENT class="I_STATE" eid="e285">committed</EVENT></VG-INF> <PG>to</PG> <EVENT class="OCCURRENCE" eid="e286"><NG><HEAD>Desert
+Shield</HEAD></NG></EVENT> <SIGNAL sid="s287"><PG>within</PG></SIGNAL> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1460" type="DURATION" value="PXW"><NG><HEAD>weeks</HEAD></NG></TIMEX3>, <VG-VBG>including</VG-VBG> <NG><HEAD><ENAMEX TYPE="ORGANIZATION">Marines</ENAMEX></HEAD></NG>, <NG><ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> air assault <HEAD>forces</HEAD></NG>,
+<NG><HEAD>paratroopers</HEAD></NG> and <NG><HEAD>infantry</HEAD></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <EVENT class="REPORTING" eid="e290"><VG>said</VG></EVENT> <NG>it</NG> <EVENT class="OCCURRENCE" eid="e291"><VG>invaded</VG></EVENT> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> <PG>because</PG> <PG>of</PG> <EVENT class="OCCURRENCE" eid="e292"><NG><HEAD>disputes</HEAD></NG></EVENT> <PG>over</PG> <NG><HEAD>oil</HEAD></NG> and
+<NG><HEAD>money</HEAD></NG>.</s> <s><NG>It</NG> <EVENT class="I_ACTION" eid="e293"><VG>accused</VG></EVENT> <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> <PG>of</PG> <VG-VBG>deliberately <EVENT class="OCCURRENCE" eid="e294">slashing</EVENT></VG-VBG> <NG>Iraqi oil
+<HEAD>revenues</HEAD></NG> by <EVENT class="OCCURRENCE" eid="e295"><VG-VBG>overproducing</VG-VBG></EVENT> <NG><HEAD>oil</HEAD></NG> and <EVENT class="OCCURRENCE" eid="e296"><VG-VBG>driving</VG-VBG></EVENT> <NG>down <HEAD>prices</HEAD></NG>, <PG>among</PG> <NG>other
+<HEAD>charges</HEAD></NG>.</s>
+   <s><NG><HEAD><ENAMEX TYPE="LOCATION">Iraq</ENAMEX></HEAD></NG> <EVENT class="STATE" eid="e297"><VG>has</VG></EVENT> <NG><CARDINAL>17 million</CARDINAL> <HEAD>residents</HEAD></NG>, and <NG><HEAD><ENAMEX TYPE="LOCATION">Kuwait</ENAMEX></HEAD></NG> <CARDINAL>about 1.9 million</CARDINAL>.</s>
+</TEXT>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei1522" eventID="e8" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1737" eventID="e291" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1575" eventID="e81" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1560" eventID="e63" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1694" eventID="e235" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1662" eventID="e187" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1731" eventID="e1426" polarity="POS" pos="PREPOSITION" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1647" eventID="e169" polarity="POS" pos="ADJECTIVE" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1568" eventID="e74" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1602" eventID="e113" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1663" eventID="e190" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1623" eventID="e137" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1653" eventID="e178" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1567" eventID="e73" modality="would" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1531" eventID="e19" polarity="POS" pos="ADJECTIVE" tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1625" eventID="e139" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1672" eventID="e203" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1700" eventID="e242" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1713" eventID="e257" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1528" eventID="e16" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1621" eventID="e134" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1573" eventID="e1509" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1670" eventID="e201" polarity="POS" pos="VERB" tense="PAST" />
+
+<MAKEINSTANCE aspect="NONE" eiid="ei1553" eventID="e54" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1562" eventID="e66" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1614" eventID="e127" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1617" eventID="e130" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1545" eventID="e41" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1661" eventID="e186" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1645" eventID="e167" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1665" eventID="e193" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1693" eventID="e234" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1708" eventID="e250" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1580" eventID="e87" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1556" eventID="e59" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1571" eventID="e77" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1558" eventID="e61" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1733" eventID="e284" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1611" eventID="e124" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1724" eventID="e270" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1743" eventID="e297" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1639" eventID="e158" polarity="NEG" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1732" eventID="e283" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1650" eventID="e173" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1601" eventID="e112" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1668" eventID="e199" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1666" eventID="e196" modality="would" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1649" eventID="e172" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1697" eventID="e238" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1680" eventID="e217" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1690" eventID="e231" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1704" eventID="e246" modality="to" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1715" eventID="e259" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1609" eventID="e122" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1741" eventID="e295" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1711" eventID="e255" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1642" eventID="e160" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1674" eventID="e207" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1616" eventID="e129" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1577" eventID="e84" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1547" eventID="e43" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1612" eventID="e1514" polarity="POS" pos="ADJECTIVE" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1536" eventID="e29" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1569" eventID="e75" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1581" eventID="e88" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1595" eventID="e103" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1638" eventID="e156" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1659" eventID="e184" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1555" eventID="e58" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1587" eventID="e95" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1604" eventID="e117" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1698" eventID="e240" modality="would" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1539" eventID="e33" modality="would" polarity="POS" pos="ADJECTIVE" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1739" eventID="e293" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1629" eventID="e146" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1579" eventID="e86" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1631" eventID="e148" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1534" eventID="e27" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1585" eventID="e93" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1637" eventID="e155" polarity="POS" pos="ADJECTIVE" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1669" eventID="e200" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1717" eventID="e261" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1532" eventID="e23" modality="may" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1593" eventID="e101" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1635" eventID="e153" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1701" eventID="e243" polarity="NEG" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1719" eventID="e263" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1591" eventID="e99" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1676" eventID="e209" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1526" eventID="e13" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1681" eventID="e218" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1678" eventID="e214" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1540" eventID="e34" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1588" eventID="e96" polarity="POS" pos="ADJECTIVE" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1607" eventID="e119" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1712" eventID="e256" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1524" eventID="e10" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1599" eventID="e110" polarity="NEG" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1624" eventID="e138" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1597" eventID="e106" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1626" eventID="e145" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1735" eventID="e286" polarity="POS" pos="NOUN" tense="INFINITIVE" />
+
+<MAKEINSTANCE aspect="NONE" eiid="ei1619" eventID="e132" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1520" eventID="e6" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1726" eventID="e274" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1703" eventID="e245" modality="until" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1574" eventID="e80" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1640" eventID="e159" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1682" eventID="e219" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1552" eventID="e53" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1689" eventID="e230" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1559" eventID="e62" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1728" eventID="e279" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1714" eventID="e258" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1544" eventID="e40" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1622" eventID="e136" modality="would" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1634" eventID="e152" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1721" eventID="e266" polarity="NEG" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1702" eventID="e244" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1608" eventID="e121" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1671" eventID="e202" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1740" eventID="e294" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1590" eventID="e98" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1627" eventID="e143" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1730" eventID="e281" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1720" eventID="e1362" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1641" eventID="e941" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1529" eventID="e17" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1705" eventID="e247" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1541" eventID="e35" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1600" eventID="e722" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1543" eventID="e39" polarity="POS" pos="ADJECTIVE" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1667" eventID="e198" polarity="NEG" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1615" eventID="e128" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1557" eventID="e60" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1620" eventID="e133" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1561" eventID="e64" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1723" eventID="e268" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1684" eventID="e221" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1673" eventID="e206" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1657" eventID="e182" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1664" eventID="e1078" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1554" eventID="e57" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1696" eventID="e237" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1610" eventID="e123" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1652" eventID="e177" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1655" eventID="e180" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1651" eventID="e175" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1537" eventID="e387" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1542" eventID="e38" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1692" eventID="e233" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1583" eventID="e91" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1633" eventID="e150" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1605" eventID="e767" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1566" eventID="e70" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1729" eventID="e280" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1564" eventID="e68" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1613" eventID="e126" modality="could" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1549" eventID="e50" modality="should" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1644" eventID="e166" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1695" eventID="e236" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1736" eventID="e290" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1551" eventID="e52" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1656" eventID="e181" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1535" eventID="e28" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1686" eventID="e225" modality="would" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1582" eventID="e90" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1675" eventID="e208" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1716" eventID="e260" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1706" eventID="e248" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1594" eventID="e102" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1691" eventID="e232" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1563" eventID="e67" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1648" eventID="e171" polarity="POS" pos="ADJECTIVE" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1628" eventID="e144" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1538" eventID="e30" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1709" eventID="e253" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1576" eventID="e83" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1685" eventID="e223" polarity="NEG" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1570" eventID="e76" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1632" eventID="e149" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1565" eventID="e69" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1660" eventID="e185" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1606" eventID="e118" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1699" eventID="e241" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1707" eventID="e249" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1578" eventID="e85" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1677" eventID="e211" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1533" eventID="e26" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1521" eventID="e7" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1725" eventID="e273" modality="might" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1742" eventID="e296" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1654" eventID="e179" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1710" eventID="e254" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1618" eventID="e131" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1527" eventID="e15" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1734" eventID="e285" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1683" eventID="e220" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1546" eventID="e42" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1688" eventID="e229" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1630" eventID="e147" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1589" eventID="e97" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1572" eventID="e78" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1586" eventID="e94" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1519" eventID="e5" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1738" eventID="e292" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1603" eventID="e116" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1646" eventID="e168" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1636" eventID="e154" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1658" eventID="e183" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1679" eventID="e216" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1722" eventID="e267" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1596" eventID="e104" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1643" eventID="e165" modality="would" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei1592" eventID="e100" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1598" eventID="e107" modality="can" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1530" eventID="e18" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1525" eventID="e11" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1584" eventID="e92" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1523" eventID="e9" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1718" eventID="e262" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1744" eventID="e1515" modality="could" polarity="POS" pos="OTHER" tense="NONE" />
+
+<TLINK eventInstanceID="ei1726" lid="l271" relType="-1" relatedToTime="t269" />
+<TLINK eventInstanceID="ei1707" lid="l270" relType="1" relatedToEventInstance="ei1706" />
+<TLINK eventInstanceID="ei1699" lid="l269" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1703" lid="l268" relType="1" relatedToEventInstance="ei1704" />
+<TLINK eventInstanceID="ei1702" lid="l267" relType="-1" relatedToEventInstance="ei1619" />
+<TLINK eventInstanceID="ei1704" lid="l266" relType="1" relatedToEventInstance="ei1704" />
+<TLINK eventInstanceID="ei1697" lid="l265" relType="-1" relatedToEventInstance="ei1695" />
+<TLINK eventInstanceID="ei1692" lid="l264" relType="-1" relatedToEventInstance="ei1693" />
+<TLINK eventInstanceID="ei1671" lid="l262" relType="-1" relatedToEventInstance="ei1670" />
+<TLINK eventInstanceID="ei1666" lid="l261" relType="-1" relatedToTime="t194" />
+<TLINK eventInstanceID="ei1663" lid="l260" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1644" lid="l259" relType="1" relatedToEventInstance="ei1643" />
+<TLINK eventInstanceID="ei1641" lid="l258" relType="-1" relatedToEventInstance="ei1640" />
+<TLINK eventInstanceID="ei1627" lid="l257" relType="-1" relatedToTime="t140" />
+<TLINK eventInstanceID="ei1628" lid="l256" relType="-1" relatedToEventInstance="ei1626" />
+<TLINK eventInstanceID="ei1619" lid="l255" relType="-1" relatedToEventInstance="ei1526" />
+<TLINK eventInstanceID="ei1604" lid="l254" relType="-1" relatedToEventInstance="ei1606" />
+<TLINK eventInstanceID="ei1599" lid="l253" relType="-1" relatedToTime="t719" />
+<TLINK eventInstanceID="ei1566" lid="l252" relType="-1" relatedToEventInstance="ei1563" />
+<TLINK eventInstanceID="ei1563" lid="l251" relType="1" relatedToEventInstance="ei1559" />
+<TLINK eventInstanceID="ei1561" lid="l250" relType="-1" relatedToEventInstance="ei1560" />
+<TLINK eventInstanceID="ei1553" lid="l249" relType="1" relatedToEventInstance="ei1551" />
+<TLINK eventInstanceID="ei1744" lid="l248" relType="-1" relatedToTime="t47" />
+<TLINK eventInstanceID="ei1612" lid="l1" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1519" lid="l2" relType="-1" relatedToTime="t4" />
+<TLINK eventInstanceID="ei1520" lid="l3" relType="-1" relatedToTime="t4" />
+<TLINK eventInstanceID="ei1520" lid="l4" relType="-1" relatedToEventInstance="ei1522" />
+<TLINK eventInstanceID="ei1525" lid="l5" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1525" lid="l6" relType="-1" relatedToEventInstance="ei1526" signalID="s12" />
+<TLINK lid="l7" relType="-1" relatedToEventInstance="ei1527" timeID="t14" />
+<TLINK lid="l8" relType="-1" relatedToEventInstance="ei1528" timeID="t14" />
+<TLINK eventInstanceID="ei1530" lid="l9" relType="-1" relatedToTime="t3" />
+<TLINK lid="l10" relType="-1" relatedToEventInstance="ei1531" signalID="s487" timeID="t22" />
+<TLINK eventInstanceID="ei1533" lid="l11" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1532" lid="l12" relType="1" relatedToEventInstance="ei1534" />
+<TLINK eventInstanceID="ei1535" lid="l13" relType="-1" relatedToTime="t380" />
+<TLINK eventInstanceID="ei1536" lid="l14" relType="1" relatedToEventInstance="ei1535" />
+<TLINK eventInstanceID="ei1536" lid="l15" relType="1" relatedToEventInstance="ei1537" />
+<TLINK eventInstanceID="ei1538" lid="l16" relType="-1" relatedToEventInstance="ei1535" />
+<TLINK lid="l17" relType="-1" relatedToEventInstance="ei1541" timeID="t37" />
+<TLINK eventInstanceID="ei1541" lid="l18" relType="-1" relatedToEventInstance="ei1542" />
+<TLINK eventInstanceID="ei1544" lid="l19" relType="-1" relatedToEventInstance="ei1545" />
+<TLINK eventInstanceID="ei1545" lid="l20" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1545" lid="l21" relType="-1" relatedToEventInstance="ei1546" />
+
+<TLINK eventInstanceID="ei1551" lid="l22" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1552" lid="l23" relType="-1" relatedToTime="t3" />
+
+<TLINK eventInstanceID="ei1555" lid="l25" relType="-1" relatedToTime="t56" />
+<TLINK eventInstanceID="ei1558" lid="l26" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1559" lid="l27" relType="-1" relatedToEventInstance="ei1558" signalID="s522" />
+<TLINK eventInstanceID="ei1560" lid="l28" relType="-1" relatedToTime="t65" />
+<TLINK eventInstanceID="ei1568" lid="l29" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1571" lid="l30" relType="-1" relatedToEventInstance="ei1572" signalID="s580" />
+<TLINK eventInstanceID="ei1572" lid="l31" relType="1" relatedToTime="t79" />
+<TLINK eventInstanceID="ei1574" lid="l32" relType="-1" relatedToTime="t79" />
+<TLINK lid="l33" relType="-1" relatedToEventInstance="ei1575" timeID="t82" />
+<TLINK eventInstanceID="ei1574" lid="l34" relType="-1" relatedToEventInstance="ei1575" />
+<TLINK eventInstanceID="ei1576" lid="l35" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1580" lid="l36" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1581" lid="l37" relType="-1" relatedToTime="t89" signalID="s626" />
+<TLINK eventInstanceID="ei1580" lid="l38" relType="1" relatedToEventInstance="ei1581" />
+<TLINK eventInstanceID="ei1582" lid="l39" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1583" lid="l40" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1582" lid="l41" relType="1" relatedToEventInstance="ei1583" />
+<TLINK eventInstanceID="ei1584" lid="l42" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1586" lid="l43" relType="0" relatedToEventInstance="ei1587" />
+<TLINK eventInstanceID="ei1588" lid="l44" relType="-1" relatedToEventInstance="ei1587" />
+<TLINK eventInstanceID="ei1589" lid="l45" relType="-1" relatedToEventInstance="ei1584" />
+<TLINK eventInstanceID="ei1590" lid="l46" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1590" lid="l47" relType="1" relatedToEventInstance="ei1591" />
+<TLINK eventInstanceID="ei1594" lid="l48" relType="1" relatedToEventInstance="ei1595" />
+<TLINK eventInstanceID="ei1596" lid="l49" relType="-1" relatedToEventInstance="ei1597" />
+<TLINK eventInstanceID="ei1597" lid="l50" relType="-1" relatedToEventInstance="ei1590" />
+<TLINK eventInstanceID="ei1598" lid="l51" relType="-1" relatedToTime="t719" signalID="s723" />
+<TLINK eventInstanceID="ei1601" lid="l52" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1602" lid="l53" relType="-1" relatedToTime="t114" />
+<TLINK eventInstanceID="ei1606" lid="l54" relType="-1" relatedToEventInstance="ei1607" signalID="s774" />
+<TLINK eventInstanceID="ei1607" lid="l55" relType="-1" relatedToTime="t120" />
+<TLINK eventInstanceID="ei1608" lid="l56" relType="1" relatedToEventInstance="ei1609" />
+<TLINK eventInstanceID="ei1609" lid="l57" relType="1" relatedToEventInstance="ei1610" />
+<TLINK eventInstanceID="ei1611" lid="l58" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1613" lid="l59" relType="1" relatedToEventInstance="ei1615" signalID="s807" />
+<TLINK eventInstanceID="ei1615" lid="l60" relType="-1" relatedToEventInstance="ei1614" />
+<TLINK eventInstanceID="ei1616" lid="l61" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1617" lid="l62" relType="1" relatedToEventInstance="ei1616" />
+<TLINK eventInstanceID="ei1618" lid="l63" relType="-1" relatedToEventInstance="ei1620" signalID="s834" />
+<TLINK eventInstanceID="ei1621" lid="l64" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1624" lid="l65" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1625" lid="l66" relType="-1" relatedToTime="t140" />
+<TLINK eventInstanceID="ei1629" lid="l67" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1630" lid="l68" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1633" lid="l69" relType="-1" relatedToTime="t151" />
+<TLINK eventInstanceID="ei1633" lid="l70" relType="-1" relatedToEventInstance="ei1634" />
+<TLINK eventInstanceID="ei1636" lid="l71" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1637" lid="l72" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1638" lid="l73" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1639" lid="l74" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1640" lid="l75" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1642" lid="l76" relType="-1" relatedToTime="t162" />
+<TLINK eventInstanceID="ei1646" lid="l77" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1647" lid="l78" relType="1" relatedToEventInstance="ei1646" />
+<TLINK eventInstanceID="ei1648" lid="l79" relType="-1" relatedToTime="t170" />
+<TLINK eventInstanceID="ei1649" lid="l80" relType="-1" relatedToEventInstance="ei1648" />
+<TLINK eventInstanceID="ei1650" lid="l81" relType="1" relatedToEventInstance="ei1651" signalID="s174" />
+<TLINK eventInstanceID="ei1651" lid="l82" relType="0" relatedToEventInstance="ei1648" />
+<TLINK lid="l83" relType="-1" relatedToEventInstance="ei1652" timeID="t176" />
+<TLINK eventInstanceID="ei1654" lid="l84" relType="-1" relatedToEventInstance="ei1653" />
+<TLINK eventInstanceID="ei1651" lid="l85" relType="-1" relatedToEventInstance="ei1655" />
+<TLINK eventInstanceID="ei1656" lid="l86" relType="1" relatedToEventInstance="ei1652" signalID="s1026" />
+<TLINK eventInstanceID="ei1657" lid="l87" relType="1" relatedToEventInstance="ei1656" />
+<TLINK eventInstanceID="ei1658" lid="l88" relType="-1" relatedToEventInstance="ei1657" />
+<TLINK eventInstanceID="ei1658" lid="l89" relType="-1" relatedToEventInstance="ei1659" />
+<TLINK eventInstanceID="ei1660" lid="l90" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1662" lid="l91" relType="-1" relatedToTime="t188" />
+<TLINK eventInstanceID="ei1664" lid="l92" relType="1" relatedToTime="t3" signalID="s192" />
+<TLINK eventInstanceID="ei1665" lid="l93" relType="-1" relatedToTime="t194" />
+<TLINK eventInstanceID="ei1665" lid="l94" relType="-1" relatedToEventInstance="ei1667" />
+<TLINK eventInstanceID="ei1668" lid="l95" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1669" lid="l96" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1672" lid="l97" relType="-1" relatedToTime="t204" signalID="s1119" />
+<TLINK eventInstanceID="ei1673" lid="l98" relType="1" relatedToEventInstance="ei1672" />
+<TLINK eventInstanceID="ei1674" lid="l99" relType="-1" relatedToEventInstance="ei1672" />
+<TLINK eventInstanceID="ei1675" lid="l100" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1676" lid="l101" relType="-1" relatedToTime="t210" />
+<TLINK eventInstanceID="ei1677" lid="l102" relType="-1" relatedToTime="t213" />
+<TLINK eventInstanceID="ei1678" lid="l103" relType="-1" relatedToTime="t215" />
+<TLINK eventInstanceID="ei1679" lid="l104" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1675" lid="l105" relType="-1" relatedToEventInstance="ei1680" />
+<TLINK eventInstanceID="ei1681" lid="l106" relType="-1" relatedToEventInstance="ei1682" />
+<TLINK eventInstanceID="ei1684" lid="l107" relType="-1" relatedToEventInstance="ei1682" />
+<TLINK eventInstanceID="ei1686" lid="l108" relType="-1" relatedToTime="t1192" />
+<TLINK eventInstanceID="ei1688" lid="l109" relType="-1" relatedToEventInstance="ei1689" />
+<TLINK eventInstanceID="ei1689" lid="l110" relType="-1" relatedToEventInstance="ei1690" />
+<TLINK eventInstanceID="ei1696" lid="l111" relType="-1" relatedToEventInstance="ei1695" />
+<TLINK eventInstanceID="ei1696" lid="l112" relType="-1" relatedToEventInstance="ei1698" />
+<TLINK eventInstanceID="ei1705" lid="l113" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1708" lid="l114" relType="-1" relatedToEventInstance="ei1533" />
+<TLINK lid="l115" relType="-1" relatedToEventInstance="ei1709" timeID="t252" />
+<TLINK eventInstanceID="ei1710" lid="l116" relType="-1" relatedToEventInstance="ei1711" />
+<TLINK eventInstanceID="ei1712" lid="l117" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1713" lid="l118" relType="-1" relatedToEventInstance="ei1712" />
+<TLINK eventInstanceID="ei1714" lid="l119" relType="-1" relatedToEventInstance="ei1708" />
+<TLINK eventInstanceID="ei1714" lid="l120" relType="-1" relatedToEventInstance="ei1715" />
+<TLINK eventInstanceID="ei1717" lid="l121" relType="1" relatedToEventInstance="ei1716" />
+<TLINK eventInstanceID="ei1718" lid="l122" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1719" lid="l123" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1723" lid="l124" relType="-1" relatedToTime="t269" />
+<TLINK eventInstanceID="ei1724" lid="l125" relType="-1" relatedToTime="t271" />
+<TLINK lid="l126" relType="-1" relatedToTime="t276" timeID="t275" />
+
+
+<TLINK eventInstanceID="ei1729" lid="l127" relType="1" relatedToEventInstance="ei1728" />
+<TLINK eventInstanceID="ei1731" lid="l128" relType="-1" relatedToTime="t282" />
+<TLINK eventInstanceID="ei1732" lid="l129" relType="-1" relatedToTime="t282" />
+<TLINK eventInstanceID="ei1733" lid="l130" relType="-1" relatedToTime="t282" />
+
+<TLINK eventInstanceID="ei1734" lid="l131" relType="-1" relatedToTime="t1460" signalID="s287" />
+<TLINK eventInstanceID="ei1738" lid="l132" relType="1" relatedToEventInstance="ei1737" />
+<TLINK eventInstanceID="ei1736" lid="l133" relType="1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1736" lid="l134" relType="1" relatedToEventInstance="ei1737" />
+<TLINK eventInstanceID="ei1737" lid="l135" relType="-1" relatedToEventInstance="ei1651" />
+<TLINK eventInstanceID="ei1739" lid="l136" relType="-1" relatedToEventInstance="ei1736" />
+<TLINK eventInstanceID="ei1740" lid="l137" relType="-1" relatedToEventInstance="ei1738" />
+<TLINK eventInstanceID="ei1741" lid="l138" relType="-1" relatedToEventInstance="ei1740" />
+<TLINK eventInstanceID="ei1742" lid="l139" relType="-1" relatedToEventInstance="ei1741" />
+<TLINK eventInstanceID="ei1743" lid="l140" relType="-1" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1572" lid="l141" relType="-1" relatedToEventInstance="ei1573" />
+
+<SLINK eventInstanceID="ei1739" lid="l247" relType="MODAL" subordinatedEventInstance="ei1740" />
+<SLINK eventInstanceID="ei1734" lid="l246" relType="FACTIVE" subordinatedEventInstance="ei1735" />
+<SLINK eventInstanceID="ei1725" lid="l245" relType="FACTIVE" subordinatedEventInstance="ei1724" />
+<SLINK eventInstanceID="ei1723" lid="l244" relType="EVIDENTIAL" subordinatedEventInstance="ei1725" />
+<SLINK eventInstanceID="ei1719" lid="l243" relType="MODAL" subordinatedEventInstance="ei1721" />
+<SLINK eventInstanceID="ei1707" lid="l242" relType="FACTIVE" subordinatedEventInstance="ei1708" />
+<SLINK eventInstanceID="ei1703" lid="l241" relType="MODAL" subordinatedEventInstance="ei1704" />
+<SLINK eventInstanceID="ei1701" lid="l240" relType="FACTIVE" subordinatedEventInstance="ei1702" />
+<SLINK eventInstanceID="ei1693" lid="l239" relType="MODAL" subordinatedEventInstance="ei1694" />
+<SLINK eventInstanceID="ei1685" lid="l238" relType="MODAL" subordinatedEventInstance="ei1686" />
+<SLINK eventInstanceID="ei1665" lid="l237" relType="EVIDENTIAL" subordinatedEventInstance="ei1666" />
+<SLINK eventInstanceID="ei1654" lid="l236" relType="FACTIVE" subordinatedEventInstance="ei1655" />
+<SLINK eventInstanceID="ei1638" lid="l235" relType="EVIDENTIAL" subordinatedEventInstance="ei1637" />
+<SLINK eventInstanceID="ei1638" lid="l234" relType="EVIDENTIAL" subordinatedEventInstance="ei1636" />
+<SLINK eventInstanceID="ei1628" lid="l233" relType="FACTIVE" subordinatedEventInstance="ei1627" />
+<SLINK eventInstanceID="ei1624" lid="l232" relType="EVIDENTIAL" subordinatedEventInstance="ei1625" />
+<SLINK eventInstanceID="ei1611" lid="l231" relType="EVIDENTIAL" subordinatedEventInstance="ei1613" />
+<SLINK eventInstanceID="ei1606" lid="l230" relType="EVIDENTIAL" subordinatedEventInstance="ei1604" />
+<SLINK eventInstanceID="ei1601" lid="l229" relType="EVIDENTIAL" subordinatedEventInstance="ei1602" />
+<SLINK eventInstanceID="ei1582" lid="l228" relType="FACTIVE" subordinatedEventInstance="ei1583" />
+<SLINK eventInstanceID="ei1580" lid="l227" relType="FACTIVE" subordinatedEventInstance="ei1581" />
+<SLINK eventInstanceID="ei1571" lid="l226" relType="MODAL" subordinatedEventInstance="ei1570" />
+<SLINK eventInstanceID="ei1547" lid="l225" relType="MODAL" subordinatedEventInstance="ei1744" />
+<SLINK eventInstanceID="ei1535" lid="l224" relType="EVIDENTIAL" subordinatedEventInstance="ei1536" />
+<SLINK eventInstanceID="ei1532" lid="l223" relType="MODAL" subordinatedEventInstance="ei1534" />
+<SLINK eventInstanceID="ei1532" lid="l222" relType="FACTIVE" subordinatedEventInstance="ei1533" />
+<SLINK eventInstanceID="ei1529" lid="l221" relType="FACTIVE" subordinatedEventInstance="ei1530" />
+<SLINK eventInstanceID="ei1644" lid="l142" relType="CONDITIONAL" signalID="s960" subordinatedEventInstance="ei1643" />
+
+<SLINK eventInstanceID="ei1707" lid="l144" relType="CONDITIONAL" signalID="s1298" subordinatedEventInstance="ei1706" />
+<SLINK eventInstanceID="ei1726" lid="l145" relType="CONDITIONAL" signalID="s1397" subordinatedEventInstance="ei1725" />
+<SLINK eventInstanceID="ei1520" lid="l146" relType="MODAL" subordinatedEventInstance="ei1521" />
+<SLINK eventInstanceID="ei1522" lid="l147" relType="MODAL" subordinatedEventInstance="ei1523" />
+<SLINK eventInstanceID="ei1522" lid="l148" relType="MODAL" subordinatedEventInstance="ei1524" />
+<SLINK eventInstanceID="ei1528" lid="l149" relType="MODAL" subordinatedEventInstance="ei1529" />
+<SLINK eventInstanceID="ei1531" lid="l150" relType="EVIDENTIAL" subordinatedEventInstance="ei1532" />
+<SLINK eventInstanceID="ei1539" lid="l151" relType="MODAL" subordinatedEventInstance="ei1540" />
+<SLINK eventInstanceID="ei1538" lid="l152" relType="EVIDENTIAL" subordinatedEventInstance="ei1539" />
+<SLINK eventInstanceID="ei1542" lid="l153" relType="EVIDENTIAL" subordinatedEventInstance="ei1543" />
+<SLINK eventInstanceID="ei1546" lid="l154" relType="MODAL" subordinatedEventInstance="ei1547" />
+
+
+<SLINK eventInstanceID="ei1551" lid="l156" relType="EVIDENTIAL" subordinatedEventInstance="ei1549" />
+<SLINK eventInstanceID="ei1555" lid="l157" relType="MODAL" subordinatedEventInstance="ei1556" />
+<SLINK eventInstanceID="ei1556" lid="l158" relType="MODAL" subordinatedEventInstance="ei1557" />
+<SLINK eventInstanceID="ei1559" lid="l159" relType="EVIDENTIAL" subordinatedEventInstance="ei1560" />
+<SLINK eventInstanceID="ei1559" lid="l160" relType="EVIDENTIAL" subordinatedEventInstance="ei1562" />
+<SLINK eventInstanceID="ei1563" lid="l161" relType="EVIDENTIAL" subordinatedEventInstance="ei1564" />
+<SLINK eventInstanceID="ei1564" lid="l162" relType="MODAL" subordinatedEventInstance="ei1565" />
+<SLINK eventInstanceID="ei1566" lid="l163" relType="EVIDENTIAL" subordinatedEventInstance="ei1567" />
+<SLINK eventInstanceID="ei1568" lid="l164" relType="MODAL" subordinatedEventInstance="ei1569" />
+<SLINK eventInstanceID="ei1569" lid="l165" relType="FACTIVE" subordinatedEventInstance="ei1570" />
+<SLINK eventInstanceID="ei1576" lid="l166" relType="MODAL" subordinatedEventInstance="ei1577" />
+<SLINK eventInstanceID="ei1577" lid="l167" relType="MODAL" subordinatedEventInstance="ei1578" />
+<SLINK eventInstanceID="ei1578" lid="l168" relType="MODAL" subordinatedEventInstance="ei1579" />
+<SLINK eventInstanceID="ei1584" lid="l169" relType="EVIDENTIAL" subordinatedEventInstance="ei1585" />
+<SLINK eventInstanceID="ei1585" lid="l170" relType="MODAL" subordinatedEventInstance="ei1586" />
+<SLINK eventInstanceID="ei1590" lid="l171" relType="EVIDENTIAL" subordinatedEventInstance="ei1591" />
+<SLINK eventInstanceID="ei1591" lid="l172" relType="MODAL" subordinatedEventInstance="ei1592" />
+<SLINK eventInstanceID="ei1592" lid="l173" relType="MODAL" subordinatedEventInstance="ei1593" />
+<SLINK eventInstanceID="ei1593" lid="l174" relType="MODAL" subordinatedEventInstance="ei1594" />
+<SLINK eventInstanceID="ei1599" lid="l175" relType="MODAL" subordinatedEventInstance="ei1600" />
+<SLINK eventInstanceID="ei1602" lid="l176" relType="MODAL" signalID="s762" subordinatedEventInstance="ei1603" />
+<SLINK eventInstanceID="ei1604" lid="l177" relType="MODAL" subordinatedEventInstance="ei1605" />
+<SLINK eventInstanceID="ei1617" lid="l178" relType="EVIDENTIAL" subordinatedEventInstance="ei1618" />
+<SLINK eventInstanceID="ei1616" lid="l179" relType="EVIDENTIAL" subordinatedEventInstance="ei1617" />
+<SLINK eventInstanceID="ei1622" lid="l180" relType="MODAL" subordinatedEventInstance="ei1623" />
+<SLINK eventInstanceID="ei1621" lid="l181" relType="EVIDENTIAL" subordinatedEventInstance="ei1622" />
+<SLINK eventInstanceID="ei1627" lid="l182" relType="MODAL" subordinatedEventInstance="ei1626" />
+<SLINK eventInstanceID="ei1630" lid="l183" relType="MODAL" subordinatedEventInstance="ei1631" />
+<SLINK eventInstanceID="ei1631" lid="l184" relType="MODAL" subordinatedEventInstance="ei1632" />
+<SLINK eventInstanceID="ei1634" lid="l185" relType="MODAL" subordinatedEventInstance="ei1635" />
+<SLINK eventInstanceID="ei1633" lid="l186" relType="EVIDENTIAL" subordinatedEventInstance="ei1634" />
+<SLINK eventInstanceID="ei1642" lid="l187" relType="EVIDENTIAL" subordinatedEventInstance="ei1643" />
+<SLINK eventInstanceID="ei1644" lid="l188" relType="MODAL" subordinatedEventInstance="ei1645" />
+<SLINK eventInstanceID="ei1652" lid="l189" relType="MODAL" subordinatedEventInstance="ei1653" />
+<SLINK eventInstanceID="ei1657" lid="l190" relType="EVIDENTIAL" subordinatedEventInstance="ei1658" />
+<SLINK eventInstanceID="ei1657" lid="l191" relType="EVIDENTIAL" subordinatedEventInstance="ei1659" />
+<SLINK eventInstanceID="ei1660" lid="l192" relType="MODAL" subordinatedEventInstance="ei1661" />
+<SLINK eventInstanceID="ei1663" lid="l193" relType="EVIDENTIAL" subordinatedEventInstance="ei1662" />
+<SLINK eventInstanceID="ei1669" lid="l194" relType="EVIDENTIAL" subordinatedEventInstance="ei1670" />
+<SLINK eventInstanceID="ei1679" lid="l195" relType="EVIDENTIAL" subordinatedEventInstance="ei1680" />
+<SLINK eventInstanceID="ei1682" lid="l196" relType="COUNTER_FACTIVE" subordinatedEventInstance="ei1683" />
+<SLINK eventInstanceID="ei1684" lid="l197" relType="EVIDENTIAL" subordinatedEventInstance="ei1685" />
+<SLINK eventInstanceID="ei1690" lid="l198" relType="EVIDENTIAL" subordinatedEventInstance="ei1691" />
+<SLINK eventInstanceID="ei1691" lid="l199" relType="MODAL" subordinatedEventInstance="ei1693" />
+<SLINK eventInstanceID="ei1692" lid="l200" relType="MODAL" subordinatedEventInstance="ei1694" />
+<SLINK eventInstanceID="ei1694" lid="l201" relType="MODAL" subordinatedEventInstance="ei1695" />
+<SLINK eventInstanceID="ei1699" lid="l202" relType="EVIDENTIAL" subordinatedEventInstance="ei1700" />
+<SLINK eventInstanceID="ei1700" lid="l203" relType="MODAL" subordinatedEventInstance="ei1701" />
+<SLINK eventInstanceID="ei1709" lid="l205" relType="MODAL" subordinatedEventInstance="ei1710" />
+<SLINK eventInstanceID="ei1715" lid="l206" relType="MODAL" subordinatedEventInstance="ei1716" />
+<SLINK eventInstanceID="ei1720" lid="l207" relType="MODAL" subordinatedEventInstance="ei1721" />
+
+<SLINK eventInstanceID="ei1721" lid="l209" relType="MODAL" subordinatedEventInstance="ei1722" />
+<SLINK eventInstanceID="ei1729" lid="l210" relType="MODAL" subordinatedEventInstance="ei1730" />
+<SLINK eventInstanceID="ei1733" lid="l211" relType="MODAL" subordinatedEventInstance="ei1734" />
+<SLINK eventInstanceID="ei1736" lid="l212" relType="EVIDENTIAL" subordinatedEventInstance="ei1737" />
+
+<ALINK eventInstanceID="ei1553" lid="l213" relType="CONTINUES" relatedToEventInstance="ei1552" />
+<ALINK eventInstanceID="ei1560" lid="l214" relType="INITIATES" relatedToEventInstance="ei1561" />
+<ALINK eventInstanceID="ei1620" lid="l215" relType="TERMINATES" relatedToEventInstance="ei1619" />
+<ALINK eventInstanceID="ei1640" lid="l216" relType="CONTINUES" relatedToEventInstance="ei1641" />
+<ALINK eventInstanceID="ei1670" lid="l217" relType="CONTINUES" relatedToEventInstance="ei1671" />
+<ALINK eventInstanceID="ei1693" lid="l218" relType="INITIATES" relatedToEventInstance="ei1692" />
+<ALINK eventInstanceID="ei1698" lid="l219" relType="TERMINATES" relatedToEventInstance="ei1697" />
+<ALINK eventInstanceID="ei1701" lid="l220" relType="TERMINATES" relatedToEventInstance="ei1702" />
+
+</TimeML>

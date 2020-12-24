@@ -1,0 +1,254 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> PRI<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t133" type="DATE" value="1998-03-03">19980303</TIMEX3>.2000.2550 </DOCNO>
+<DOCTYPE SOURCE="broadcast news"> NEWS STORY </DOCTYPE>
+<BODY>
+<bn_episode_trans air_date="19980303:2000" program="PRI_The_World">
+<section endTime="2777.05" startTime="2550.67" type="report">
+<TEXT>
+<turn endTime="2578.958" speaker="unknown" spkrType="unknown" startTime="2550.67">
+ <s><TIMEX3 anchorTimeID="t133" functionInDocument="NONE" temporalFunction="true" tid="t135" type="DATE" value="1998-03-04">Tomorrow</TIMEX3> the board of supervisors of <ENAMEX TYPE="LOCATION">Loudon</ENAMEX> county, <ENAMEX TYPE="LOCATION">Virginia</ENAMEX>, will <EVENT class="I_ACTION" eid="e136">vote</EVENT> on
+ whether a school <TIMEX3 anchorTimeID="t133" functionInDocument="NONE" temporalFunction="true" tid="t138" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="OCCURRENCE" eid="e3">located</EVENT> in <ENAMEX TYPE="LOCATION">Mount Vernon</ENAMEX> can <EVENT class="OCCURRENCE" eid="e4">relocate</EVENT> to their county.</s>
+ <s>In some respects, that's typical county business, but <TIMEX3 anchorTimeID="t133" functionInDocument="NONE" temporalFunction="true" tid="t139" type="DATE" value="1998-03-04">tomorrow</TIMEX3><SIGNAL sid="s140">'s</SIGNAL> <EVENT class="OCCURRENCE" eid="e8">vote</EVENT> has
+ international <EVENT class="STATE" eid="e141">implications</EVENT>.</s> <s>The board will <EVENT class="I_ACTION" eid="e10">decide</EVENT> whether the <ENAMEX TYPE="ORGANIZATION">Islamic Saudi
+ Academy</ENAMEX>, <EVENT class="STATE" eid="e11">funded</EVENT> by the government of <ENAMEX TYPE="LOCATION">Saudi Arabia</ENAMEX>, can <EVENT class="OCCURRENCE" eid="e12">move</EVENT> to <ENAMEX TYPE="LOCATION">Ashburn</ENAMEX> village,
+ <ENAMEX TYPE="LOCATION">Virginia</ENAMEX>.</s> <s>But local residents have not exactly <EVENT class="I_ACTION" eid="e14">laid</EVENT> out the
+ red carpet for their would be neighbors.</s> <s>The World's <ENAMEX TYPE="PERSON">Nancy Marshalll</ENAMEX> has
+ our story.</s>
+</turn>
+<turn endTime="2584.420" speaker="unknown" spkrType="unknown" startTime="2578.958">
+</turn>
+<turn endTime="2640.489" speaker="unknown" spkrType="unknown" startTime="2584.420">
+ <s>Inside the Islamic Saudi academy in <ENAMEX TYPE="LOCATION">Mount Vernon</ENAMEX>, <ENAMEX TYPE="LOCATION">Virginia</ENAMEX>, many of the
+ girls wear head scarves and some of the neatly dressed children are in uniforms.</s>
+ <s>The instruction is in English for most classes, in <ENAMEX TYPE="LOCATION">Arabic</ENAMEX> for language and
+ religious studies.</s> <s>The school <EVENT class="REPORTING" eid="e23">says</EVENT> it <EVENT class="OCCURRENCE" eid="e24">teaches</EVENT> the children to be good
+ Muslims and good students.</s> <s>They're <EVENT class="OCCURRENCE" eid="e26">learning</EVENT> a civics lesson from the residents of
+ <ENAMEX TYPE="LOCATION">Loudon</ENAMEX> county.</s> <s>The <ENAMEX TYPE="ORGANIZATION">Islamic Saudi Academy</ENAMEX> <EVENT class="STATE" eid="e28">has</EVENT> <CARDINAL>twelve hundred</CARDINAL> mostly American
+ students but would <EVENT class="OCCURRENCE" eid="e29">take</EVENT> <CARDINAL>thirty-five hundred</CARDINAL> <SIGNAL sid="s31">if</SIGNAL> it <EVENT class="STATE" eid="e32">had</EVENT> the room.</s>
+ <s>The academy <EVENT class="OCCURRENCE" eid="e33">bought</EVENT> a <CARDINAL>hundred</CARDINAL> acres in <ENAMEX TYPE="LOCATION">Loudon</ENAMEX> county, <ENAMEX TYPE="LOCATION">Virginia</ENAMEX>, and <EVENT class="I_ACTION" eid="e34">asked</EVENT> for <EVENT class="I_STATE" eid="e35">permission</EVENT>
+ to <EVENT class="OCCURRENCE" eid="e37">build</EVENT> a <NUMEX TYPE="MONEY">fifty million dollar</NUMEX> campus.</s> <s>In the nearby suburban housing
+ tracts, someone <EVENT class="OCCURRENCE" eid="e38">dropped</EVENT> off leaflets <EVENT class="I_ACTION" eid="e39">warning</EVENT> the school could <EVENT class="OCCURRENCE" eid="e40">bring</EVENT>
+ thousands of Middle Eastern strangers and terrorists.</s> <s>Some residents of the mostly
+ white, mostly middle class area <EVENT class="I_STATE" eid="e42">became</EVENT> alarmed.</s> <s><ENAMEX TYPE="PERSON">James Zogby of the <ENAMEX TYPE="ORGANIZATION">Arab
+ American Institute</ENAMEX></ENAMEX> <EVENT class="REPORTING" eid="e147">says</EVENT> it's a familiar story.</s>
+</turn>
+<turn endTime="2650.153" speaker="unknown" spkrType="unknown" startTime="2640.489">
+ <s>There is, a- at a very deep level in our culture, um I <EVENT class="I_STATE" eid="e146">think</EVENT>, a sense of, of
+ <EVENT class="STATE" eid="e148">ignorance</EVENT> about Islam, a <EVENT class="STATE" eid="e149">fear</EVENT> about who Muslims are and what they're doing.</s>
+</turn>
+<turn endTime="2674.165" speaker="unknown" spkrType="unknown" startTime="2650.153">
+ <s>Many local residents <EVENT class="I_ACTION" eid="e50">denounced</EVENT> the <EVENT class="STATE" eid="e150">bigotry</EVENT>, but <EVENT class="OCCURRENCE" eid="e51">opposition</EVENT> to the school
+ then <EVENT class="ASPECTUAL" eid="e52">shifted</EVENT>.</s> <s><TIMEX3 anchorTimeID="t133" functionInDocument="NONE" temporalFunction="true" tid="t346" type="DATE" value="PRESENT_REF">Now</TIMEX3> critics of the academy are <EVENT class="OCCURRENCE" eid="e53">targeting</EVENT> its owner, the Saudi
+ government.</s> <s>Pastor <ENAMEX TYPE="PERSON">James Allmen</ENAMEX> of the fellowship church and school in
+ <ENAMEX TYPE="LOCATION">Ashburn</ENAMEX> has <EVENT class="OCCURRENCE" eid="e54">led</EVENT> the anti-Saudi <EVENT class="OCCURRENCE" eid="e55">campaign</EVENT>.</s> <s><ENAMEX TYPE="PERSON">James Allmen</ENAMEX> <EVENT class="REPORTING" eid="e56">says</EVENT> he <EVENT class="STATE" eid="e57">has</EVENT> no problem with a
+ privately funded academy, but he <EVENT class="STATE" eid="e59">has</EVENT> a big problem with a Saudi funded school.</s>
+</turn>
+<turn endTime="2688.188" speaker="unknown" spkrType="unknown" startTime="2674.165">
+ <s>The Saudi Arabian government has an atrocious record on human rights and is known to be one of the worst offending countries when it comes to religious
+ persecution.</s>
+</turn>
+<turn endTime="2689.680" speaker="unknown" spkrType="unknown" startTime="2688.188">
+</turn>
+<turn endTime="2690.531" speaker="unknown" spkrType="unknown" startTime="2689.680">
+ <s>That's correct.</s>
+</turn>
+<turn endTime="2692.474" speaker="unknown" spkrType="unknown" startTime="2690.531">
+ <s>And that is a condition of the application, then.</s>
+</turn>
+<turn endTime="2693.661" speaker="unknown" spkrType="unknown" startTime="2692.474">
+ <s>That is a condition of-</s>
+</turn>
+<turn endTime="2708.577" speaker="unknown" spkrType="unknown" startTime="2693.661">
+ <s>At a public <EVENT class="OCCURRENCE" eid="e69">hearing</EVENT> on the <ENAMEX TYPE="ORGANIZATION">Islamic Saudi Academy</ENAMEX>'s application, the <EVENT class="STATE" eid="e71">split</EVENT>
+ in county opinion was obvious, supporters of the academy, including <ENAMEX TYPE="PERSON">Ann
+ Robinson</ENAMEX>, <EVENT class="REPORTING" eid="e72">said</EVENT> the Saudis were just <EVENT class="OCCURRENCE" eid="e73">providing</EVENT> a service and it was <EVENT class="I_STATE" eid="e153">unfair</EVENT>
+ to <EVENT class="OCCURRENCE" eid="e76">penalize</EVENT> children.</s>
+</turn>
+<turn endTime="2714.648" speaker="unknown" spkrType="unknown" startTime="2708.577">
+ <s>We do not <EVENT class="OCCURRENCE" eid="e155">further</EVENT> the purpose of human rights in the world by <EVENT class="OCCURRENCE" eid="e78">violating</EVENT>
+ the human rights under our own constitution.</s>
+</turn>
+<turn endTime="2730.447" speaker="unknown" spkrType="unknown" startTime="2714.648">
+ <s>But opponents <EVENT class="REPORTING" eid="e80">said</EVENT> the school might be a <EVENT class="I_STATE" eid="e82">target</EVENT> for terrorist <EVENT class="OCCURRENCE" eid="e83">attacks</EVENT>,
+ <EVENT class="I_ACTION" eid="e84">complained</EVENT> about its tax exempt <EVENT class="STATE" eid="e157">status</EVENT>, and <EVENT class="I_ACTION" eid="e85">wondered</EVENT> why the Saudis are not <EVENT class="I_ACTION" eid="e86">compelled</EVENT> to <EVENT class="I_ACTION" eid="e89">allow</EVENT> Christians to <EVENT class="OCCURRENCE" eid="e90">worship</EVENT> in their country.</s> <s><ENAMEX TYPE="PERSON">Virginia Welch</ENAMEX>
+ <EVENT class="REPORTING" eid="e91">delivered</EVENT> this message to the county board of supervisors.</s>
+</turn>
+<turn endTime="2739.501" speaker="unknown" spkrType="unknown" startTime="2730.447">
+ <s>I <EVENT class="I_ACTION" eid="e94">urge</EVENT> you to <EVENT class="OCCURRENCE" eid="e96">do</EVENT> the right thing and <EVENT class="I_ACTION" eid="e98">send</EVENT> a message to the Saudis that the
+ citizens of <ENAMEX TYPE="LOCATION">Loudon</ENAMEX> county <EVENT class="STATE" eid="e100">embrace</EVENT> religious and human freedom.</s>
+</turn>
+<turn endTime="2777.05" speaker="unknown" spkrType="unknown" startTime="2739.501">
+ <s>Loudon county officials <EVENT class="REPORTING" eid="e101">say</EVENT> they'll <EVENT class="OCCURRENCE" eid="e102">rule</EVENT> on the application <EVENT class="STATE" eid="e106">based</EVENT> only on
+ land use issues and <EVENT class="I_ACTION" eid="e108">ignore</EVENT> all the other <EVENT class="OCCURRENCE" eid="e109">objections</EVENT>.</s> <s>What's really behind those
+ <EVENT class="OCCURRENCE" eid="e110">objections</EVENT>, some <EVENT class="REPORTING" eid="e111">say</EVENT>, is <ENAMEX TYPE="LOCATION">Loudon</ENAMEX> county's <EVENT class="OCCURRENCE" eid="e112">collision</EVENT> with a new reality in
+ <ENAMEX TYPE="LOCATION">America</ENAMEX> that the country is <EVENT class="OCCURRENCE" eid="e160">changing</EVENT> religiously as surely as it is racially and ethnically.</s> <s><EVENT class="I_STATE" eid="e161">According</EVENT> to the Arab American institute, Islam will <TIMEX3 anchorTimeID="t133" functionInDocument="NONE" temporalFunction="true" tid="t163" type="DATE" value="FUTURE_REF">one
+ day</TIMEX3> be the second largest <EVENT class="STATE" eid="e162">religion</EVENT> in the country.</s> <s>For an indication of the
+ problems that could face Muslims as they integrate into American life, one
+ need look no farther than <ENAMEX TYPE="LOCATION">Loudon</ENAMEX> county, <ENAMEX TYPE="LOCATION">Virginia</ENAMEX>.</s> <s>For The World, I'm
+ <ENAMEX TYPE="PERSON">Nancy Marshalll</ENAMEX>.</s>
+</turn>
+</TEXT>
+</section>
+</bn_episode_trans>
+</BODY>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei539" eventID="e136" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei540" eventID="e3" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei541" eventID="e4" modality="can" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei542" eventID="e8" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei543" eventID="e141" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei544" eventID="e10" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei545" eventID="e11" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei546" eventID="e12" modality="can" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei547" eventID="e14" polarity="NEG" pos="VERB" tense="PRESENT" />
+
+<MAKEINSTANCE aspect="NONE" eiid="ei549" eventID="e23" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei550" eventID="e24" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei551" eventID="e26" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei552" eventID="e28" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei553" eventID="e29" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei554" eventID="e32" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei555" eventID="e33" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei556" eventID="e34" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei557" eventID="e35" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei558" eventID="e37" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei559" eventID="e38" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei560" eventID="e39" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei561" eventID="e40" modality="could" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei562" eventID="e42" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei564" eventID="e147" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei565" eventID="e146" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei566" eventID="e148" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei567" eventID="e149" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei568" eventID="e50" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei569" eventID="e150" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei570" eventID="e51" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei571" eventID="e52" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei572" eventID="e53" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei573" eventID="e54" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei574" eventID="e55" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei575" eventID="e56" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei576" eventID="e57" polarity="NEG" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei577" eventID="e59" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei578" eventID="e69" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei579" eventID="e71" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei580" eventID="e72" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei581" eventID="e73" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei582" eventID="e153" polarity="POS" pos="ADJECTIVE" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei583" eventID="e76" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei584" eventID="e155" polarity="NEG" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei585" eventID="e78" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei586" eventID="e80" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei587" eventID="e82" modality="might" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei588" eventID="e83" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei589" eventID="e84" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei590" eventID="e157" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei591" eventID="e85" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei592" eventID="e86" polarity="NEG" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei593" eventID="e89" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei594" eventID="e90" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei595" eventID="e91" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei596" eventID="e94" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei597" eventID="e96" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei598" eventID="e98" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei599" eventID="e100" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei600" eventID="e101" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei601" eventID="e102" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei602" eventID="e106" polarity="POS" pos="ADJECTIVE" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei603" eventID="e108" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei604" eventID="e109" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei605" eventID="e110" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei606" eventID="e111" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei607" eventID="e112" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei608" eventID="e160" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei609" eventID="e161" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei610" eventID="e162" polarity="POS" pos="VERB" tense="FUTURE" />
+
+<TLINK eventInstanceID="ei606" lid="l80" relType="-1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei600" lid="l79" relType="-1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei595" lid="l78" relType="1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei610" lid="l1" relType="-1" relatedToTime="t163" />
+<TLINK lid="l2" relType="-1" relatedToEventInstance="ei539" timeID="t135" />
+<TLINK eventInstanceID="ei540" lid="l3" relType="-1" relatedToTime="t138" />
+<TLINK lid="l4" relType="-1" relatedToTime="t133" timeID="t138" />
+<TLINK lid="l5" relType="-1" relatedToEventInstance="ei542" signalID="s140" timeID="t139" />
+<TLINK eventInstanceID="ei542" lid="l6" relType="-1" relatedToEventInstance="ei539" />
+<TLINK lid="l7" relType="-1" relatedToTime="t139" timeID="t135" />
+<TLINK eventInstanceID="ei543" lid="l8" relType="1" relatedToEventInstance="ei542" />
+<TLINK eventInstanceID="ei544" lid="l9" relType="-1" relatedToEventInstance="ei539" />
+<TLINK eventInstanceID="ei545" lid="l10" relType="-1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei545" lid="l11" relType="-1" relatedToEventInstance="ei540" />
+<TLINK eventInstanceID="ei547" lid="l12" relType="1" relatedToTime="t133" />
+
+<TLINK eventInstanceID="ei549" lid="l14" relType="1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei550" lid="l15" relType="-1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei549" lid="l16" relType="-1" relatedToTime="t138" />
+<TLINK eventInstanceID="ei551" lid="l17" relType="-1" relatedToTime="t138" />
+<TLINK eventInstanceID="ei552" lid="l18" relType="-1" relatedToTime="t138" />
+<TLINK eventInstanceID="ei553" lid="l19" relType="1" relatedToEventInstance="ei554" />
+<TLINK eventInstanceID="ei555" lid="l20" relType="1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei555" lid="l21" relType="1" relatedToEventInstance="ei556" />
+<TLINK eventInstanceID="ei559" lid="l22" relType="1" relatedToEventInstance="ei556" />
+<TLINK eventInstanceID="ei559" lid="l23" relType="-1" relatedToEventInstance="ei560" />
+<TLINK eventInstanceID="ei559" lid="l24" relType="1" relatedToEventInstance="ei562" />
+
+<TLINK eventInstanceID="ei564" lid="l25" relType="1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei568" lid="l26" relType="1" relatedToEventInstance="ei559" />
+<TLINK eventInstanceID="ei568" lid="l27" relType="1" relatedToEventInstance="ei571" />
+<TLINK lid="l28" relType="-1" relatedToEventInstance="ei570" timeID="t346" />
+<TLINK lid="l29" relType="-1" relatedToEventInstance="ei572" timeID="t346" />
+<TLINK eventInstanceID="ei573" lid="l30" relType="-1" relatedToEventInstance="ei570" />
+<TLINK eventInstanceID="ei575" lid="l31" relType="1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei578" lid="l32" relType="1" relatedToTime="t133" />
+<TLINK eventInstanceID="ei578" lid="l33" relType="-1" relatedToEventInstance="ei579" />
+<TLINK eventInstanceID="ei580" lid="l34" relType="-1" relatedToEventInstance="ei578" />
+<TLINK eventInstanceID="ei584" lid="l35" relType="1" relatedToEventInstance="ei585" />
+<TLINK eventInstanceID="ei586" lid="l36" relType="-1" relatedToEventInstance="ei578" />
+<TLINK eventInstanceID="ei586" lid="l37" relType="-1" relatedToEventInstance="ei589" />
+<TLINK eventInstanceID="ei591" lid="l38" relType="-1" relatedToEventInstance="ei589" />
+<TLINK eventInstanceID="ei601" lid="l39" relType="-1" relatedToEventInstance="ei602" />
+<TLINK eventInstanceID="ei605" lid="l40" relType="-1" relatedToEventInstance="ei604" />
+<TLINK eventInstanceID="ei607" lid="l41" relType="1" relatedToEventInstance="ei608" />
+<TLINK eventInstanceID="ei607" lid="l42" relType="1" relatedToEventInstance="ei604" />
+<TLINK eventInstanceID="ei609" lid="l43" relType="1" relatedToTime="t133" />
+
+<SLINK eventInstanceID="ei554" lid="l44" relType="CONDITIONAL" signalID="s31" subordinatedEventInstance="ei553" />
+<SLINK eventInstanceID="ei539" lid="l45" relType="MODAL" subordinatedEventInstance="ei541" />
+<SLINK eventInstanceID="ei544" lid="l46" relType="MODAL" subordinatedEventInstance="ei546" />
+<SLINK eventInstanceID="ei549" lid="l47" relType="EVIDENTIAL" subordinatedEventInstance="ei550" />
+<SLINK eventInstanceID="ei556" lid="l48" relType="MODAL" subordinatedEventInstance="ei557" />
+<SLINK eventInstanceID="ei557" lid="l49" relType="MODAL" subordinatedEventInstance="ei558" />
+<SLINK eventInstanceID="ei560" lid="l50" relType="MODAL" subordinatedEventInstance="ei561" />
+<SLINK eventInstanceID="ei564" lid="l51" relType="EVIDENTIAL" subordinatedEventInstance="ei565" />
+<SLINK eventInstanceID="ei565" lid="l52" relType="MODAL" subordinatedEventInstance="ei566" />
+<SLINK eventInstanceID="ei565" lid="l53" relType="MODAL" subordinatedEventInstance="ei567" />
+<SLINK eventInstanceID="ei568" lid="l54" relType="FACTIVE" subordinatedEventInstance="ei569" />
+<SLINK eventInstanceID="ei573" lid="l55" relType="FACTIVE" subordinatedEventInstance="ei574" />
+<SLINK eventInstanceID="ei575" lid="l56" relType="EVIDENTIAL" subordinatedEventInstance="ei576" />
+<SLINK eventInstanceID="ei575" lid="l57" relType="EVIDENTIAL" subordinatedEventInstance="ei577" />
+<SLINK eventInstanceID="ei580" lid="l58" relType="EVIDENTIAL" subordinatedEventInstance="ei581" />
+<SLINK eventInstanceID="ei580" lid="l59" relType="EVIDENTIAL" subordinatedEventInstance="ei582" />
+<SLINK eventInstanceID="ei582" lid="l60" relType="FACTIVE" subordinatedEventInstance="ei583" />
+<SLINK eventInstanceID="ei580" lid="l61" relType="EVIDENTIAL" subordinatedEventInstance="ei584" />
+<SLINK eventInstanceID="ei586" lid="l62" relType="EVIDENTIAL" subordinatedEventInstance="ei587" />
+<SLINK eventInstanceID="ei587" lid="l63" relType="MODAL" subordinatedEventInstance="ei588" />
+<SLINK eventInstanceID="ei589" lid="l64" relType="FACTIVE" subordinatedEventInstance="ei590" />
+<SLINK eventInstanceID="ei591" lid="l65" relType="MODAL" subordinatedEventInstance="ei592" />
+<SLINK eventInstanceID="ei592" lid="l66" relType="MODAL" subordinatedEventInstance="ei593" />
+<SLINK eventInstanceID="ei593" lid="l67" relType="MODAL" subordinatedEventInstance="ei594" />
+<SLINK eventInstanceID="ei595" lid="l68" relType="EVIDENTIAL" subordinatedEventInstance="ei596" />
+<SLINK eventInstanceID="ei596" lid="l69" relType="MODAL" subordinatedEventInstance="ei597" />
+<SLINK eventInstanceID="ei596" lid="l70" relType="MODAL" subordinatedEventInstance="ei598" />
+<SLINK eventInstanceID="ei598" lid="l71" relType="MODAL" subordinatedEventInstance="ei599" />
+<SLINK eventInstanceID="ei600" lid="l72" relType="EVIDENTIAL" subordinatedEventInstance="ei601" />
+<SLINK eventInstanceID="ei600" lid="l73" relType="EVIDENTIAL" subordinatedEventInstance="ei603" />
+<SLINK eventInstanceID="ei603" lid="l74" relType="FACTIVE" subordinatedEventInstance="ei604" />
+<SLINK eventInstanceID="ei606" lid="l75" relType="EVIDENTIAL" subordinatedEventInstance="ei607" />
+<SLINK eventInstanceID="ei609" lid="l76" relType="EVIDENTIAL" subordinatedEventInstance="ei610" />
+
+
+
+</TimeML>

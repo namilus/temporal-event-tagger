@@ -1,0 +1,348 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> NYT19980206.0460 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t190" type="TIME" value="1998-02-06T22:19:00">02/06/1998 22:19:00</TIMEX3> </DATE_TIME>
+<HEADER>
+A6974 Cx1f tta-z
+u f Cx13  Cx11  BC-ECON-REPORT-ART-NYT LR      02-06 0974
+</HEADER>
+<BODY>
+<SLUG> BC-ECON-REPORT-ART-NYT </SLUG>
+<HEADLINE>
+(REPEATING to correct coding)
+</HEADLINE>
+UR JANUARY JOB TOTALS UP AT A ROBUST CLIP LR  QL
+UR (ART ADV: Graphic is being sent to NYT graphic clients.
+Non-subscribers can make individual purchase by calling
+212-556-4204.) LR  QL
+UR (JT LR ) QL
+UR By RICHARD W. STEVENSON LR  QC   QL
+UR c.1998 N.Y. Times News Service LR  QC   QL
+
+<TEXT>
+<s><ENAMEX TYPE="PERSON">WASHINGTON _</ENAMEX> The economy <EVENT class="OCCURRENCE" eid="e1">created</EVENT> jobs at a surprisingly robust
+pace <SIGNAL sid="s192">in</SIGNAL> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t191" type="DATE" value="1998-01">January</TIMEX3>, the government <EVENT class="REPORTING" eid="e4">reported</EVENT> <SIGNAL sid="s194">on</SIGNAL> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t193" type="DATE" value="1998-02-06">Friday</TIMEX3>, evidence that
+<ENAMEX TYPE="LOCATION">America</ENAMEX>'s economic stamina has <EVENT class="OCCURRENCE" eid="e6">withstood</EVENT> any <EVENT class="OCCURRENCE" eid="e7">disruptions</EVENT> <EVENT class="OCCURRENCE" eid="e224">caused</EVENT> so far by the financial <EVENT class="OCCURRENCE" eid="e228">tumult</EVENT> in <ENAMEX TYPE="LOCATION">Asia</ENAMEX>.</s>
+<s>The <ENAMEX TYPE="ORGANIZATION">Bureau of Labor Statistics</ENAMEX> <EVENT class="REPORTING" eid="e9">said</EVENT> the economy <EVENT class="OCCURRENCE" eid="e10">added</EVENT> <CARDINAL>358,000</CARDINAL>
+jobs <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t195" type="DATE" value="1998-01">last month</TIMEX3>, far above the <CARDINAL>235,000</CARDINAL> <EVENT class="OCCURRENCE" eid="e12">forecast</EVENT> by economists.</s>
+<s>It was the third consecutive month that job generation has been
+exceptionally strong.</s> <s>With growing opportunities for work <EVENT class="OCCURRENCE" eid="e15">drawing</EVENT>
+more people into the labor force, the unemployment rate <EVENT class="STATE" eid="e17">remained</EVENT> at
+<NUMEX TYPE="PERCENT">4.7 percent</NUMEX> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t196" type="DATE" value="1998-01">last month</TIMEX3>, just a notch above its quarter-century low.</s>
+<s>The <EVENT class="OCCURRENCE" eid="e229">demand</EVENT> for workers also <EVENT class="OCCURRENCE" eid="e231">led</EVENT> employers to <EVENT class="OCCURRENCE" eid="e20">raise</EVENT> wages again
+<TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t198" type="DATE" value="1998-01">last month</TIMEX3>.</s> <s>Average hourly earnings of production and
+nonsupervisory employees <EVENT class="OCCURRENCE" eid="e23">rose</EVENT> <NUMEX TYPE="MONEY">4 cents</NUMEX>, to <NUMEX TYPE="MONEY">$12.51</NUMEX>.</s> <s>The gain <EVENT class="OCCURRENCE" eid="e24">left</EVENT>
+wages <NUMEX TYPE="PERCENT">3.8 percent</NUMEX> higher than <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t199" type="DATE" value="1997">a year earlier</TIMEX3>, <EVENT class="ASPECTUAL" eid="e26">extending</EVENT> a <EVENT class="OCCURRENCE" eid="e2018">trend</EVENT>
+that has <EVENT class="OCCURRENCE" eid="e27">given</EVENT> back to workers some of the earning power they <EVENT class="OCCURRENCE" eid="e28">lost</EVENT>
+to inflation in <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t200" type="DATE" value="198">the last decade</TIMEX3>.</s>
+<s>But economists <EVENT class="REPORTING" eid="e30">said</EVENT> the wage <EVENT class="OCCURRENCE" eid="e31">increase</EVENT> was not enough to <EVENT class="OCCURRENCE" eid="e32">raise</EVENT>
+any concerns about higher inflation.</s> <s>And because the Federal
+Reserve has <EVENT class="OCCURRENCE" eid="e34">made</EVENT> clear that it <EVENT class="I_STATE" eid="e35">expects</EVENT> the economy to <EVENT class="OCCURRENCE" eid="e37">slow</EVENT> in
+<TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t201" type="DATE" value="FUTURE_REF">coming months</TIMEX3> <SIGNAL sid="s341">as</SIGNAL> ripple effects from Asia <EVENT class="OCCURRENCE" eid="e232">reach</EVENT> the <ENAMEX TYPE="LOCATION">United States</ENAMEX>,
+investors <EVENT class="OCCURRENCE" eid="e39">disregarded</EVENT> the large jobs gains, <EVENT class="OCCURRENCE" eid="e40">betting</EVENT> that neither a
+<EVENT class="OCCURRENCE" eid="e41">rise</EVENT> in interest rates nor resurgent <EVENT class="OCCURRENCE" eid="e43">inflation</EVENT> is <EVENT class="I_STATE" eid="e44">looming</EVENT>.</s>
+<s>Stocks <EVENT class="OCCURRENCE" eid="e45">rose</EVENT>, <EVENT class="OCCURRENCE" eid="e46">pushing</EVENT> the Dow Jones industrial average up <CARDINAL>72.24</CARDINAL>
+points, to <CARDINAL>8,189.49</CARDINAL>, <EVENT class="OCCURRENCE" eid="e47">leaving</EVENT> the index within <CARDINAL>70</CARDINAL> points of its
+record high <EVENT class="OCCURRENCE" eid="e356">set</EVENT> <SIGNAL sid="s245">on</SIGNAL> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t202" type="DATE" value="1997-08-06">Aug. 6</TIMEX3>.</s> <s>In the bond market, a sensitive
+barometer of inflation anxiety, prices <EVENT class="OCCURRENCE" eid="e52">edged</EVENT> up , <EVENT class="OCCURRENCE" eid="e53">pushing</EVENT> down the
+yield on the benchmark 30-year <ENAMEX TYPE="ORGANIZATION">Treasury</ENAMEX> bond to <NUMEX TYPE="PERCENT">5.92 percent</NUMEX> from
+<NUMEX TYPE="PERCENT">5.93 percent</NUMEX>.</s>
+<s>``Job <EVENT class="OCCURRENCE" eid="e55">creation</EVENT> is sturdy and we have effective price
+stability,'' <EVENT class="REPORTING" eid="e57">said</EVENT> <ENAMEX TYPE="PERSON">Paul McCulley</ENAMEX>, an economist at <ENAMEX TYPE="ORGANIZATION">UBS Securities</ENAMEX>.</s>
+<s>``The bottom line is that we've got a lovely economy.''</s>
+<s>With potential inflation <EVENT class="OCCURRENCE" eid="e61">counterbalanced</EVENT> by worries about
+possible price <EVENT class="OCCURRENCE" eid="e246">declines</EVENT>, the <ENAMEX TYPE="ORGANIZATION">Fed</ENAMEX> and its <ENAMEX TYPE="PERSON">chairman, Alan Greenspan</ENAMEX>,
+have <EVENT class="I_ACTION" eid="e62">suggested</EVENT> that they <EVENT class="I_ACTION" eid="e63">intend</EVENT> to <EVENT class="OCCURRENCE" eid="e65">keep</EVENT> interest rates unchanged
+<SIGNAL sid="s247">until</SIGNAL> the economy <EVENT class="OCCURRENCE" eid="e66">tilts</EVENT> clearly in one direction or another.</s>
+<s>The job figures for <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t203" type="DATE" value="1998-01">January</TIMEX3> <EVENT class="ASPECTUAL" eid="e69">extended</EVENT> a <EVENT class="OCCURRENCE" eid="e70">surge</EVENT> in employment <EVENT class="OCCURRENCE" eid="e250">gains</EVENT>
+that <EVENT class="ASPECTUAL" eid="e72">began</EVENT> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t204" type="DATE" value="1997-FA">last fall</TIMEX3>, just <SIGNAL sid="s73">when</SIGNAL> the labor market had <EVENT class="OCCURRENCE" eid="e75">showed</EVENT> signs
+of cooling.</s> <s>After <EVENT class="OCCURRENCE" eid="e78">accounting</EVENT> for a small downward <EVENT class="OCCURRENCE" eid="e395">revision</EVENT> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t205" type="DATE" value="1998-02-06">Friday</TIMEX3>
+to <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t206" type="DATE" value="1997-12">December</TIMEX3>'s figures, the economy has been <EVENT class="OCCURRENCE" eid="e81">creating</EVENT> jobs at a rate
+of <CARDINAL>358,000</CARDINAL> a month for <TIMEX3 endPoint="t190" functionInDocument="NONE" temporalFunction="true" tid="t207" type="DURATION" value="P4M">the last four months</TIMEX3> _ and <CARDINAL>381,000</CARDINAL> over <TIMEX3 endPoint="t190" functionInDocument="NONE" temporalFunction="true" tid="t208" type="DURATION" value="P3M">the
+last three months</TIMEX3> _ <SIGNAL sid="s84">after</SIGNAL> <EVENT class="OCCURRENCE" eid="e85">averaging</EVENT> <CARDINAL>242,000</CARDINAL> for <TIMEX3 beginPoint="t211" functionInDocument="NONE" temporalFunction="true" tid="t212" type="DURATION" value="P9M">the first <CARDINAL>nine</CARDINAL>
+months</TIMEX3> of <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t211" type="DATE" value="1997">1997</TIMEX3>.</s>
+<s>The surge in jobs <EVENT class="OCCURRENCE" eid="e89">reflects</EVENT> a remarkable confluence of positive
+and self-reinforcing economic forces.</s> <s>Inflation has been almost
+nonexistent, and consumer confidence has been extremely strong.</s>
+<s><SIGNAL sid="s252">After</SIGNAL> a short, sharp <EVENT class="OCCURRENCE" eid="e251">drop</EVENT> <SIGNAL sid="s92">when</SIGNAL> <ENAMEX TYPE="LOCATION">Asia</ENAMEX>'s financial problems first
+<EVENT class="OCCURRENCE" eid="e93">became</EVENT> clear, the stock market has <EVENT class="OCCURRENCE" eid="e95">rebounded</EVENT> and corporate profits
+have <EVENT class="STATE" eid="e96">remained</EVENT> healthy.</s>
+<s>Long-term interest rates, an important indicator of economic
+stability, have <EVENT class="OCCURRENCE" eid="e98">fallen</EVENT> <SIGNAL sid="s253">in</SIGNAL> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t213" type="DATE" value="PAST_REF">the last few months</TIMEX3>.</s> <s>Lower rates have <EVENT class="I_ACTION" eid="e99">helped</EVENT> <EVENT class="OCCURRENCE" eid="e100">invigorate</EVENT> housing and other interest-sensitive sectors of
+the economy by <EVENT class="OCCURRENCE" eid="e101">making</EVENT> loans more affordable, and have <EVENT class="I_ACTION" eid="e102">allowed</EVENT>
+companies to <EVENT class="ASPECTUAL" eid="e104">continue</EVENT> <EVENT class="OCCURRENCE" eid="e105">investing</EVENT> heavily in more efficient
+equipment.</s>
+<s>The likelihood that the federal budget will <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t214" type="DATE" value="FUTURE_REF">soon</TIMEX3> <EVENT class="OCCURRENCE" eid="e107">move</EVENT> from
+deficit into surplus has further <EVENT class="OCCURRENCE" eid="e109">improved</EVENT> the outlook.</s> <s>The less
+money the government needs to borrow, the more is freed for private
+investment.</s>
+<s><ENAMEX TYPE="PERSON">President Clinton</ENAMEX> <EVENT class="OCCURRENCE" eid="e115">welcomed</EVENT> the job figures <SIGNAL sid="s255">at</SIGNAL> a news <EVENT class="OCCURRENCE" eid="e254">conference</EVENT>
+<TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t2181" type="DATE" value="1998-02-06">Friday</TIMEX3>.</s> <s>His advisers <EVENT class="REPORTING" eid="e117">said</EVENT> the results <EVENT class="OCCURRENCE" eid="e256">reflected</EVENT> not just from
+<EVENT class="OCCURRENCE" eid="e122">balancing</EVENT> the budget, but also <EVENT class="OCCURRENCE" eid="e257">initiatives</EVENT> like improved access to
+education and training and the opening of foreign markets to trade.</s>
+<s>``There are enormous economic and social benefits from our
+nation's high-employment economy,'' said <ENAMEX TYPE="PERSON">Janet Yellen, the
+chairwoman of the <ENAMEX TYPE="ORGANIZATION">White House</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Council of Economic</ENAMEX> Advisers</ENAMEX>.</s>
+<s>Some of the biggest employment gains <EVENT class="OCCURRENCE" eid="e134">came</EVENT> in the construction
+industry, which <EVENT class="OCCURRENCE" eid="e137">added</EVENT> <CARDINAL>92,000</CARDINAL> jobs <SIGNAL sid="s217">in</SIGNAL> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t215" type="DATE" value="1998-01">January</TIMEX3>.</s> <s>The increase
+<EVENT class="OCCURRENCE" eid="e140">reflected</EVENT> the strength of the housing industry, which has been <EVENT class="OCCURRENCE" eid="e258">helped</EVENT> not just by declining interest rates but also by unusually
+warm weather.</s>
+<s>Service industries also <EVENT class="OCCURRENCE" eid="e145">showed</EVENT> solid job gains, as did
+manufacturers, <CARDINAL>two</CARDINAL> areas <EVENT class="I_STATE" eid="e146">expected</EVENT> to be hardest <EVENT class="OCCURRENCE" eid="e148">hit</EVENT> <SIGNAL sid="s149">when</SIGNAL> the
+effects of the Asian crisis <EVENT class="OCCURRENCE" eid="e151">hit</EVENT> the American economy.</s> <s>The major
+<EVENT class="OCCURRENCE" eid="e259">harm</EVENT> from <ENAMEX TYPE="LOCATION">Asia</ENAMEX> is likely to come from the <EVENT class="OCCURRENCE" eid="e155">plunge</EVENT> in the value of
+many Asian currencies relative to the dollar, a situation that is <EVENT class="I_STATE" eid="e160">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e162">lead</EVENT> to a <EVENT class="OCCURRENCE" eid="e163">surge</EVENT> of inexpensive imports into the <ENAMEX TYPE="LOCATION">United
+States</ENAMEX>, <EVENT class="OCCURRENCE" eid="e164">hurting</EVENT> American competitors.</s> <s>And the <EVENT class="OCCURRENCE" eid="e261">weakness</EVENT> of the Asian
+economies is also likely to <EVENT class="OCCURRENCE" eid="e166">lead</EVENT> to decreased <EVENT class="OCCURRENCE" eid="e167">demand</EVENT> for American
+exports.</s>
+<s>``The economy has been <EVENT class="OCCURRENCE" eid="e168">running</EVENT> on the fumes of the strength from
+before the <ENAMEX TYPE="LOCATION">Asia</ENAMEX> shock,'' <ENAMEX TYPE="PERSON">McCulley</ENAMEX> <EVENT class="REPORTING" eid="e169">said</EVENT>.</s> <s>``Those fumes will <EVENT class="OCCURRENCE" eid="e171">exhaust</EVENT>
+themselves, and the manufacturing sector is going to <EVENT class="ASPECTUAL" eid="e174">start</EVENT> getting
+<EVENT class="OCCURRENCE" eid="e176">beat</EVENT> up in the spring.''</s>
+<s>The figures <EVENT class="OCCURRENCE" eid="e178">showed</EVENT> the unemployment rate for adult men <EVENT class="OCCURRENCE" eid="e179">declined</EVENT>
+to <NUMEX TYPE="PERCENT">3.8 percent</NUMEX> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t218" type="DATE" value="1998-01">last month</TIMEX3> from <NUMEX TYPE="PERCENT">4.1 percent</NUMEX> <SIGNAL sid="s220">in</SIGNAL> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t219" type="DATE" value="1997-12">December</TIMEX3>, the lowest
+figure for almost <CARDINAL>two</CARDINAL> decades.</s> <s>The rate for adult women <EVENT class="OCCURRENCE" eid="e181">rose</EVENT> <NUMEX TYPE="PERCENT">0.4
+percent</NUMEX>, to <NUMEX TYPE="PERCENT">4.4 percent</NUMEX>.</s>
+<s>For the first time, the <ENAMEX TYPE="ORGANIZATION">Labor Department</ENAMEX> <EVENT class="OCCURRENCE" eid="e183">broke</EVENT> out unemployment
+by education level as well as gender, age and race.</s> <s>The analysis
+<EVENT class="OCCURRENCE" eid="e186">showed</EVENT> unemployment rates <EVENT class="OCCURRENCE" eid="e187">dropped</EVENT> steadily with higher levels of
+education.</s> <s>Among people with less than a high school education, the
+<EVENT class="OCCURRENCE" eid="e2162">rate</EVENT> <SIGNAL sid="s262">in</SIGNAL> <TIMEX3 anchorTimeID="t190" functionInDocument="NONE" temporalFunction="true" tid="t222" type="DATE" value="1998-01">January</TIMEX3> was <NUMEX TYPE="PERCENT">7.2 percent</NUMEX>.</s>
+<s>Among high school graduates, the rate was <NUMEX TYPE="PERCENT">3.9 percent</NUMEX>, and
+college graduates, <NUMEX TYPE="PERCENT">1.9 percent</NUMEX>.</s>
+</TEXT>
+</BODY>
+<TRAILER>
+<s>NYT-02-06-98 2219EST</s>
+</TRAILER>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei2246" eventID="e100" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2193" eventID="e15" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2200" eventID="e26" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2257" eventID="e122" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2209" eventID="e37" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2203" eventID="e28" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2199" eventID="e24" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2281" eventID="e178" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei2215" eventID="e44" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2232" eventID="e250" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2216" eventID="e45" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2258" eventID="e257" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2269" eventID="e160" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2267" eventID="e259" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2271" eventID="e163" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2285" eventID="e186" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2213" eventID="e41" polarity="NEG" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2231" eventID="e70" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2210" eventID="e232" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2283" eventID="e181" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2186" eventID="e6" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2239" eventID="e89" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2212" eventID="e40" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="PERFECTIVE_PROGRESSIVE" eiid="ei2276" eventID="e168" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE_PROGRESSIVE" eiid="ei2237" eventID="e81" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2194" eventID="e17" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2211" eventID="e39" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2278" eventID="e171" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2240" eventID="e251" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2228" eventID="e65" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2264" eventID="e146" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2217" eventID="e46" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2272" eventID="e164" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2273" eventID="e261" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2286" eventID="e187" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2218" eventID="e47" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2184" eventID="e1" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2247" eventID="e101" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2284" eventID="e183" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2249" eventID="e104" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2287" eventID="e2162" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2204" eventID="e30" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2279" eventID="e174" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2270" eventID="e162" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2220" eventID="e52" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2191" eventID="e10" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2221" eventID="e53" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2262" eventID="e258" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2277" eventID="e169" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2201" eventID="e2018" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2222" eventID="e55" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2185" eventID="e4" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2219" eventID="e356" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2223" eventID="e57" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2260" eventID="e137" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2282" eventID="e179" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2265" eventID="e148" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2274" eventID="e166" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2208" eventID="e35" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2227" eventID="e63" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2236" eventID="e395" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2195" eventID="e229" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2251" eventID="e107" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2244" eventID="e98" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2226" eventID="e62" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2197" eventID="e20" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2252" eventID="e109" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2263" eventID="e145" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2235" eventID="e78" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2242" eventID="e95" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2259" eventID="e134" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2190" eventID="e9" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2245" eventID="e99" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2196" eventID="e231" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2268" eventID="e155" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2261" eventID="e140" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2280" eventID="e176" polarity="POS" pos="ADJECTIVE" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2233" eventID="e72" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2206" eventID="e32" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2248" eventID="e102" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2250" eventID="e105" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2238" eventID="e85" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2234" eventID="e75" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2198" eventID="e23" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2266" eventID="e151" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2224" eventID="e61" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2192" eventID="e12" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2241" eventID="e93" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2214" eventID="e43" polarity="NEG" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2275" eventID="e167" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2229" eventID="e66" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2207" eventID="e34" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2189" eventID="e228" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2230" eventID="e69" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2205" eventID="e31" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2243" eventID="e96" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2225" eventID="e246" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2256" eventID="e256" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2188" eventID="e224" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2253" eventID="e115" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2254" eventID="e254" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2187" eventID="e7" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2202" eventID="e27" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2255" eventID="e117" polarity="POS" pos="VERB" tense="PAST" />
+
+<TLINK eventInstanceID="ei2277" lid="l118" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2269" lid="l117" relType="-1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2264" lid="l116" relType="-1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2255" lid="l115" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2250" lid="l114" relType="-1" relatedToEventInstance="ei2249" />
+<TLINK eventInstanceID="ei2245" lid="l113" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2248" lid="l112" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2231" lid="l111" relType="-1" relatedToEventInstance="ei2230" />
+<TLINK eventInstanceID="ei2232" lid="l110" relType="-1" relatedToTime="t204" />
+<TLINK eventInstanceID="ei2226" lid="l109" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2223" lid="l108" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2208" lid="l107" relType="-1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2215" lid="l106" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2204" lid="l105" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2200" lid="l104" relType="1" relatedToTime="t199" />
+<TLINK eventInstanceID="ei2190" lid="l103" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2261" lid="l1" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2184" lid="l2" relType="-1" relatedToTime="t191" signalID="s192" />
+<TLINK eventInstanceID="ei2185" lid="l3" relType="-1" relatedToTime="t193" signalID="s194" />
+<TLINK eventInstanceID="ei2189" lid="l4" relType="-1" relatedToEventInstance="ei2188" />
+<TLINK eventInstanceID="ei2187" lid="l5" relType="1" relatedToEventInstance="ei2188" />
+<TLINK eventInstanceID="ei2191" lid="l6" relType="-1" relatedToTime="t195" />
+<TLINK eventInstanceID="ei2194" lid="l7" relType="-1" relatedToTime="t196" />
+<TLINK eventInstanceID="ei2195" lid="l8" relType="-1" relatedToEventInstance="ei2196" />
+<TLINK eventInstanceID="ei2196" lid="l9" relType="1" relatedToEventInstance="ei2197" />
+<TLINK eventInstanceID="ei2197" lid="l10" relType="-1" relatedToTime="t198" />
+<TLINK eventInstanceID="ei2203" lid="l11" relType="-1" relatedToTime="t200" />
+<TLINK eventInstanceID="ei2209" lid="l12" relType="-1" relatedToTime="t201" />
+<TLINK eventInstanceID="ei2209" lid="l13" relType="1" relatedToEventInstance="ei2210" signalID="s341" />
+<TLINK eventInstanceID="ei2219" lid="l14" relType="-1" relatedToTime="t202" signalID="s245" />
+<TLINK eventInstanceID="ei2228" lid="l15" relType="1" relatedToEventInstance="ei2229" signalID="s247" />
+<TLINK eventInstanceID="ei2233" lid="l16" relType="-1" relatedToTime="t204" />
+<TLINK eventInstanceID="ei2236" lid="l17" relType="-1" relatedToTime="t205" />
+<TLINK eventInstanceID="ei2233" lid="l18" relType="-1" relatedToEventInstance="ei2234" signalID="s73" />
+<TLINK eventInstanceID="ei2237" lid="l19" relType="-1" relatedToTime="t207" />
+<TLINK eventInstanceID="ei2237" lid="l20" relType="-1" relatedToTime="t208" />
+<TLINK eventInstanceID="ei2237" lid="l21" relType="1" relatedToEventInstance="ei2238" signalID="s84" />
+<TLINK eventInstanceID="ei2238" lid="l22" relType="-1" relatedToTime="t212" />
+<TLINK eventInstanceID="ei2242" lid="l23" relType="1" relatedToEventInstance="ei2240" signalID="s252" />
+<TLINK eventInstanceID="ei2240" lid="l24" relType="-1" relatedToEventInstance="ei2241" signalID="s92" />
+<TLINK eventInstanceID="ei2244" lid="l25" relType="-1" relatedToTime="t213" signalID="s253" />
+<TLINK eventInstanceID="ei2251" lid="l26" relType="-1" relatedToTime="t214" />
+<TLINK eventInstanceID="ei2253" lid="l27" relType="-1" relatedToEventInstance="ei2254" signalID="s255" />
+<TLINK eventInstanceID="ei2254" lid="l28" relType="-1" relatedToTime="t2181" />
+<TLINK eventInstanceID="ei2260" lid="l29" relType="-1" relatedToTime="t215" signalID="s217" />
+<TLINK eventInstanceID="ei2265" lid="l30" relType="-1" relatedToEventInstance="ei2266" signalID="s149" />
+<TLINK eventInstanceID="ei2267" lid="l31" relType="1" relatedToEventInstance="ei2268" />
+<TLINK eventInstanceID="ei2282" lid="l32" relType="-1" relatedToTime="t218" />
+<TLINK eventInstanceID="ei2186" lid="l33" relType="-1" relatedToEventInstance="ei2187" />
+<TLINK eventInstanceID="ei2193" lid="l34" relType="-1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2198" lid="l35" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2199" lid="l36" relType="1" relatedToTime="t199" />
+<TLINK eventInstanceID="ei2201" lid="l37" relType="-1" relatedToEventInstance="ei2202" />
+<TLINK eventInstanceID="ei2207" lid="l38" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2211" lid="l39" relType="1" relatedToEventInstance="ei2207" />
+<TLINK eventInstanceID="ei2212" lid="l40" relType="-1" relatedToEventInstance="ei2211" />
+<TLINK eventInstanceID="ei2216" lid="l41" relType="-1" relatedToEventInstance="ei2217" />
+<TLINK eventInstanceID="ei2216" lid="l42" relType="-1" relatedToEventInstance="ei2218" />
+<TLINK eventInstanceID="ei2220" lid="l43" relType="-1" relatedToEventInstance="ei2221" />
+<TLINK eventInstanceID="ei2224" lid="l44" relType="-1" relatedToEventInstance="ei2225" />
+<TLINK eventInstanceID="ei2230" lid="l45" relType="-1" relatedToTime="t203" />
+<TLINK eventInstanceID="ei2237" lid="l46" relType="-1" relatedToTime="t212" />
+<TLINK eventInstanceID="ei2235" lid="l47" relType="1" relatedToTime="t206" />
+<TLINK eventInstanceID="ei2239" lid="l48" relType="-1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2243" lid="l49" relType="1" relatedToEventInstance="ei2240" signalID="s252" />
+<TLINK eventInstanceID="ei2247" lid="l50" relType="1" relatedToEventInstance="ei2246" />
+<TLINK eventInstanceID="ei2251" lid="l51" relType="1" relatedToEventInstance="ei2252" />
+<TLINK eventInstanceID="ei2259" lid="l52" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2256" lid="l53" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2262" lid="l54" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2263" lid="l55" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2270" lid="l56" relType="0" relatedToEventInstance="ei2271" />
+<TLINK eventInstanceID="ei2271" lid="l57" relType="-1" relatedToEventInstance="ei2272" />
+<TLINK eventInstanceID="ei2273" lid="l58" relType="-1" relatedToEventInstance="ei2274" />
+<TLINK eventInstanceID="ei2274" lid="l59" relType="1" relatedToEventInstance="ei2275" />
+<TLINK eventInstanceID="ei2281" lid="l60" relType="1" relatedToEventInstance="ei2282" />
+<TLINK eventInstanceID="ei2282" lid="l61" relType="-1" relatedToTime="t219" signalID="s220" />
+
+<TLINK eventInstanceID="ei2283" lid="l63" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2284" lid="l64" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2285" lid="l65" relType="1" relatedToTime="t190" />
+<TLINK eventInstanceID="ei2286" lid="l66" relType="1" relatedToEventInstance="ei2285" />
+<TLINK eventInstanceID="ei2287" lid="l67" relType="-1" relatedToTime="t222" signalID="s262" />
+<TLINK eventInstanceID="ei2238" lid="l68" relType="-1" relatedToTime="t211" />
+
+<SLINK eventInstanceID="ei2285" lid="l102" relType="EVIDENTIAL" subordinatedEventInstance="ei2286" />
+<SLINK eventInstanceID="ei2270" lid="l101" relType="MODAL" subordinatedEventInstance="ei2271" />
+
+<SLINK eventInstanceID="ei2212" lid="l99" relType="MODAL" subordinatedEventInstance="ei2215" />
+<SLINK eventInstanceID="ei2207" lid="l98" relType="EVIDENTIAL" subordinatedEventInstance="ei2208" />
+
+<SLINK eventInstanceID="ei2186" lid="l96" relType="FACTIVE" subordinatedEventInstance="ei2187" />
+<SLINK eventInstanceID="ei2185" lid="l69" relType="EVIDENTIAL" subordinatedEventInstance="ei2184" />
+<SLINK eventInstanceID="ei2190" lid="l70" relType="EVIDENTIAL" subordinatedEventInstance="ei2191" />
+<SLINK eventInstanceID="ei2204" lid="l71" relType="EVIDENTIAL" subordinatedEventInstance="ei2205" />
+<SLINK eventInstanceID="ei2204" lid="l72" relType="EVIDENTIAL" subordinatedEventInstance="ei2206" />
+<SLINK eventInstanceID="ei2208" lid="l73" relType="MODAL" subordinatedEventInstance="ei2209" />
+<SLINK eventInstanceID="ei2215" lid="l74" relType="MODAL" subordinatedEventInstance="ei2213" />
+<SLINK eventInstanceID="ei2215" lid="l75" relType="MODAL" subordinatedEventInstance="ei2214" />
+<SLINK eventInstanceID="ei2223" lid="l76" relType="EVIDENTIAL" subordinatedEventInstance="ei2222" />
+<SLINK eventInstanceID="ei2226" lid="l77" relType="MODAL" subordinatedEventInstance="ei2227" />
+<SLINK eventInstanceID="ei2227" lid="l78" relType="MODAL" subordinatedEventInstance="ei2228" />
+<SLINK eventInstanceID="ei2245" lid="l79" relType="MODAL" subordinatedEventInstance="ei2246" />
+<SLINK eventInstanceID="ei2248" lid="l80" relType="MODAL" subordinatedEventInstance="ei2249" />
+<SLINK eventInstanceID="ei2255" lid="l81" relType="EVIDENTIAL" subordinatedEventInstance="ei2256" />
+<SLINK eventInstanceID="ei2255" lid="l82" relType="EVIDENTIAL" subordinatedEventInstance="ei2257" />
+<SLINK eventInstanceID="ei2255" lid="l83" relType="EVIDENTIAL" subordinatedEventInstance="ei2258" />
+<SLINK eventInstanceID="ei2264" lid="l84" relType="MODAL" subordinatedEventInstance="ei2265" />
+<SLINK eventInstanceID="ei2269" lid="l85" relType="MODAL" subordinatedEventInstance="ei2270" />
+<SLINK eventInstanceID="ei2277" lid="l86" relType="EVIDENTIAL" subordinatedEventInstance="ei2276" />
+<SLINK eventInstanceID="ei2190" lid="l87" relType="EVIDENTIAL" subordinatedEventInstance="ei2192" />
+<SLINK eventInstanceID="ei2277" lid="l88" relType="EVIDENTIAL" subordinatedEventInstance="ei2278" />
+<SLINK eventInstanceID="ei2277" lid="l89" relType="EVIDENTIAL" subordinatedEventInstance="ei2279" />
+
+
+<ALINK eventInstanceID="ei2230" lid="l91" relType="CONTINUES" relatedToEventInstance="ei2231" />
+<ALINK eventInstanceID="ei2233" lid="l92" relType="INITIATES" relatedToEventInstance="ei2232" />
+<ALINK eventInstanceID="ei2249" lid="l93" relType="CONTINUES" relatedToEventInstance="ei2250" />
+<ALINK eventInstanceID="ei2279" lid="l94" relType="INITIATES" relatedToEventInstance="ei2280" />
+<ALINK eventInstanceID="ei2200" lid="l95" relType="CONTINUES" relatedToEventInstance="ei2201" />
+
+</TimeML>

@@ -1,0 +1,79 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> WSJ891101-0043 </DOCNO>
+<DD> = 891101 </DD>
+<AN> 891101-0043. </AN>
+<HL> Business Brief -- StatesWest Airlines:
+@  Offer for Mesa Withdrawn;
+@  Firm to Continue Pursuit </HL>
+<DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t40" type="DATE" value="1989-11-01">11/01/89</TIMEX3> </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> SWAL MESA </CO>
+<IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) </IN>
+<TEXT>
+   <s><ENAMEX TYPE="ORGANIZATION">StatesWest Airlines</ENAMEX>, <ENAMEX TYPE="LOCATION">Phoenix</ENAMEX>, <ENAMEX TYPE="LOCATION">Ariz.</ENAMEX>, <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="OCCURRENCE" eid="e2">withdrew</EVENT> its <EVENT class="I_ACTION" eid="e3">offer</EVENT> to <EVENT class="OCCURRENCE" eid="e5">acquire</EVENT> <ENAMEX TYPE="ORGANIZATION">Mesa Airlines</ENAMEX> because the <ENAMEX TYPE="LOCATION">Farmington</ENAMEX>, <ENAMEX TYPE="LOCATION">N.M.</ENAMEX>, carrier did n't <EVENT class="OCCURRENCE" eid="e6">respond</EVENT> to its <EVENT class="OCCURRENCE" eid="e8">offer</EVENT> by the <EVENT class="OCCURRENCE" eid="e9">close</EVENT> of <EVENT class="OCCURRENCE" eid="e10">business</EVENT> <TIMEX3 anchorTimeID="t40" functionInDocument="NONE" temporalFunction="true" tid="t41" type="DATE" value="1989-10-31">yesterday</TIMEX3>, a deadline <ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX> had <EVENT class="OCCURRENCE" eid="e11">set</EVENT> for a response.</s> 
+
+   <s>However, <ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX> is n't <EVENT class="ASPECTUAL" eid="e12">abandoning</EVENT> its <EVENT class="OCCURRENCE" eid="e14">pursuit</EVENT> of the much-larger <ENAMEX TYPE="LOCATION">Mesa</ENAMEX>.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX>, which has a <NUMEX TYPE="PERCENT">7.25%</NUMEX> stake in <ENAMEX TYPE="LOCATION">Mesa</ENAMEX>, <EVENT class="REPORTING" eid="e17">said</EVENT> it may <EVENT class="OCCURRENCE" eid="e18">purchase</EVENT> more <ENAMEX TYPE="LOCATION">Mesa</ENAMEX> stock or <EVENT class="OCCURRENCE" eid="e20">make</EVENT> a tender <EVENT class="OCCURRENCE" eid="e21">offer</EVENT> directly to <ENAMEX TYPE="LOCATION">Mesa</ENAMEX> shareholders.</s> 
+
+   <s><ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX> had <EVENT class="I_ACTION" eid="e22">proposed</EVENT> <EVENT class="OCCURRENCE" eid="e23">acquiring</EVENT> <ENAMEX TYPE="LOCATION">Mesa</ENAMEX> for <NUMEX TYPE="MONEY">$7</NUMEX> a share and one share of a new series of <ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX> <NUMEX TYPE="PERCENT">6%</NUMEX> convertible preferred stock it values at <NUMEX TYPE="MONEY">$3</NUMEX> a share.</s> 
+<s><SIGNAL sid="s43">Earlier</SIGNAL>, <ENAMEX TYPE="LOCATION">Mesa</ENAMEX> had <EVENT class="I_STATE" eid="e26">rejected</EVENT> a general <EVENT class="I_ACTION" eid="e27">proposal</EVENT> from <ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX> to <EVENT class="OCCURRENCE" eid="e29">combine</EVENT> the <CARDINAL>two</CARDINAL> carriers in some way.</s> 
+
+   <s><ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX> serves <CARDINAL>10</CARDINAL> cities in <ENAMEX TYPE="LOCATION">California</ENAMEX>, <ENAMEX TYPE="LOCATION">Arizona</ENAMEX> and <ENAMEX TYPE="LOCATION">Nevada</ENAMEX>.</s> 
+<s><ENAMEX TYPE="LOCATION">Mesa</ENAMEX> flies to <CARDINAL>42</CARDINAL> cities in <ENAMEX TYPE="LOCATION">New Mexico</ENAMEX>, <ENAMEX TYPE="LOCATION">Arizona</ENAMEX>, <ENAMEX TYPE="LOCATION">Wyoming</ENAMEX>, <ENAMEX TYPE="LOCATION">Colorado</ENAMEX> and <ENAMEX TYPE="LOCATION">Texas</ENAMEX>.</s> 
+</TEXT>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei150" eventID="e1" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei151" eventID="e2" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei152" eventID="e3" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei153" eventID="e5" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei154" eventID="e6" polarity="NEG" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei155" eventID="e8" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei156" eventID="e9" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei157" eventID="e10" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei158" eventID="e11" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei159" eventID="e12" polarity="NEG" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei160" eventID="e14" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei161" eventID="e17" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei162" eventID="e18" modality="may" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei163" eventID="e20" modality="may" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei164" eventID="e21" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei165" eventID="e22" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei166" eventID="e23" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei167" eventID="e26" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei168" eventID="e27" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei169" eventID="e29" polarity="POS" pos="VERB" tense="INFINITIVE" />
+
+<TLINK eventInstanceID="ei160" lid="l28" relType="-1" relatedToEventInstance="ei152" />
+<TLINK eventInstanceID="ei150" lid="l1" relType="1" relatedToTime="t40" />
+<TLINK eventInstanceID="ei154" lid="l2" relType="1" relatedToEventInstance="ei151" />
+<TLINK eventInstanceID="ei155" lid="l3" relType="-1" relatedToEventInstance="ei152" />
+<TLINK eventInstanceID="ei154" lid="l4" relType="-1" relatedToEventInstance="ei156" />
+<TLINK eventInstanceID="ei156" lid="l5" relType="-1" relatedToEventInstance="ei157" />
+<TLINK eventInstanceID="ei157" lid="l6" relType="-1" relatedToTime="t41" />
+<TLINK eventInstanceID="ei158" lid="l7" relType="1" relatedToEventInstance="ei151" />
+<TLINK eventInstanceID="ei158" lid="l8" relType="1" relatedToTime="t41" />
+<TLINK eventInstanceID="ei159" lid="l9" relType="-1" relatedToTime="t40" />
+<TLINK eventInstanceID="ei161" lid="l10" relType="1" relatedToTime="t40" />
+<TLINK eventInstanceID="ei163" lid="l11" relType="-1" relatedToEventInstance="ei164" />
+<TLINK eventInstanceID="ei167" lid="l12" relType="1" relatedToEventInstance="ei165" signalID="s43" />
+<TLINK eventInstanceID="ei165" lid="l13" relType="1" relatedToTime="t40" />
+<TLINK eventInstanceID="ei167" lid="l14" relType="1" relatedToEventInstance="ei168" />
+
+<SLINK eventInstanceID="ei167" lid="l26" relType="FACTIVE" subordinatedEventInstance="ei168" />
+
+<SLINK eventInstanceID="ei168" lid="l15" relType="MODAL" subordinatedEventInstance="ei169" />
+<SLINK eventInstanceID="ei150" lid="l16" relType="EVIDENTIAL" subordinatedEventInstance="ei151" />
+<SLINK eventInstanceID="ei151" lid="l17" relType="MODAL" subordinatedEventInstance="ei152" />
+<SLINK eventInstanceID="ei152" lid="l18" relType="MODAL" subordinatedEventInstance="ei153" />
+<SLINK eventInstanceID="ei154" lid="l19" relType="FACTIVE" subordinatedEventInstance="ei155" />
+<SLINK eventInstanceID="ei161" lid="l20" relType="EVIDENTIAL" subordinatedEventInstance="ei162" />
+<SLINK eventInstanceID="ei161" lid="l21" relType="EVIDENTIAL" subordinatedEventInstance="ei163" />
+<SLINK eventInstanceID="ei165" lid="l22" relType="MODAL" subordinatedEventInstance="ei166" />
+
+<ALINK eventInstanceID="ei156" lid="l24" relType="TERMINATES" relatedToEventInstance="ei157" />
+<ALINK eventInstanceID="ei159" lid="l23" relType="TERMINATES" relatedToEventInstance="ei160" />
+
+</TimeML>

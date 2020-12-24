@@ -1,0 +1,49 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> WSJ891026-0014 </DOCNO>
+<DD> = 891026 </DD>
+<AN> 891026-0014. </AN>
+<HL> Dividend News:
+@  Avon Rent-a-Car amp Truck Corp. </HL>
+<DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t30" type="DATE" value="1989-10-26">10/26/89</TIMEX3> </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> AVON </CO>
+<IN> DIVIDENDS (DIV) </IN>
+<TEXT>
+   <s><ENAMEX TYPE="ORGANIZATION">AVON RENT-A-CAR amp TRUCK Corp.</ENAMEX> <EVENT class="REPORTING" eid="e1" stem="say">said</EVENT> it <EVENT class="OCCURRENCE" eid="e2" stem="declare">declared</EVENT> a dividend of one warrant for each <CARDINAL>three</CARDINAL> shares of common stock.</s> 
+<s>Currently, <ENAMEX TYPE="ORGANIZATION">Avon</ENAMEX>, based in <ENAMEX TYPE="LOCATION">Santa Monica</ENAMEX>, <ENAMEX TYPE="LOCATION">Calif.</ENAMEX>, <EVENT class="OCCURRENCE" eid="e5" stem="have">has</EVENT> <CARDINAL>3.3 million</CARDINAL> common shares outstanding.</s> 
+<s><CARDINAL>About 1.1 million</CARDINAL> Class C warrants were <EVENT class="OCCURRENCE" eid="e7" stem="issue">issued</EVENT>, the company <EVENT class="REPORTING" eid="e8" stem="say">said</EVENT>.</s> 
+<s>Each of the Class C warrants will <EVENT class="OCCURRENCE" eid="e10" stem="enable">enable</EVENT> the holders to <EVENT class="OCCURRENCE" eid="e12" stem="purchase">purchase</EVENT> one share of common stock at <NUMEX TYPE="MONEY">$5.50</NUMEX>.</s> 
+<s>The warrants may be <EVENT class="OCCURRENCE" eid="e14" stem="exercise">exercised</EVENT> until <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t31" type="DURATION" value="P90D"><CARDINAL>90</CARDINAL> days</TIMEX3> <SIGNAL sid="s16">after</SIGNAL> their <EVENT class="OCCURRENCE" eid="e32" stem="issue">issue</EVENT> date.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">Avon</ENAMEX> also <EVENT class="REPORTING" eid="e17" stem="say">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e18" stem="issue">issue</EVENT> an additional <CARDINAL>243,677</CARDINAL> of the Class C warrants to holders of its Class A, Class B and unclassified warrants.</s> 
+<s>Issuance of those warrants will be at the rate of one-third warrant for each warrant exercised.</s> 
+
+</TEXT>
+
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei88" eventID="e14" modality="may" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei84" eventID="e7" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei91" eventID="e18" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei85" eventID="e8" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei87" eventID="e12" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei82" eventID="e2" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei90" eventID="e17" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei86" eventID="e10" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei81" eventID="e1" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei83" eventID="e5" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei89" eventID="e32" polarity="POS" pos="NOUN" tense="NONE" />
+<TLINK eventInstanceID="ei90" lid="l13" relType="-1" relatedToTime="t30" />
+<TLINK eventInstanceID="ei86" lid="l12" relType="1" relatedToEventInstance="ei86" />
+<TLINK eventInstanceID="ei85" lid="l11" relType="-1" relatedToTime="t30" />
+<TLINK eventInstanceID="ei89" lid="l1" relType="-1" relatedToEventInstance="ei84" />
+<TLINK lid="l2" relType="1" relatedToEventInstance="ei81" timeID="t30" />
+<TLINK eventInstanceID="ei83" lid="l3" relType="-1" relatedToTime="t30" />
+<TLINK eventInstanceID="ei88" lid="l4" relType="1" relatedToEventInstance="ei89" />
+<TLINK eventInstanceID="ei88" lid="l5" relType="1" relatedToTime="t31" />
+<TLINK lid="l6" relType="1" relatedToEventInstance="ei89" signalID="s16" timeID="t31" />
+<SLINK eventInstanceID="ei81" lid="l7" relType="EVIDENTIAL" subordinatedEventInstance="ei82" />
+<SLINK eventInstanceID="ei85" lid="l8" relType="EVIDENTIAL" subordinatedEventInstance="ei84" />
+<SLINK eventInstanceID="ei86" lid="l9" relType="MODAL" subordinatedEventInstance="ei87" />
+<SLINK eventInstanceID="ei90" lid="l10" relType="EVIDENTIAL" subordinatedEventInstance="ei91" />
+
+
+</TimeML>

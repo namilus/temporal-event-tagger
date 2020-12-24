@@ -1,0 +1,2 @@
+* Group 20 Event Tagger
+This repo holds the source code and paper about the HMM that labels temporal events in text. Note install the dependencies in =requirements.txt= before attempting to run any of the code.

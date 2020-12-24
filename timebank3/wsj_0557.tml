@@ -1,0 +1,150 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> WSJ891030-0143 </DOCNO>
+<DD> = 891030 </DD>
+<AN> 891030-0143. </AN>
+<HL> RJR Is Selling
+@  Candy Brands
+@  For $370 Million
+@  ----
+@  By Peter Waldman
+@  Staff Reporter of The Wall Street Journal </HL>
+<DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t78" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> RJR Z.NES </CO>
+<IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+FOOD PRODUCTS (FOD) </IN>
+<TEXT>
+   <s><ENAMEX TYPE="ORGANIZATION">RJR Nabisco Inc.</ENAMEX> <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="I_STATE" eid="e2">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e4">sell</EVENT> its <ENAMEX TYPE="LOCATION">Baby Ruth</ENAMEX>, <ENAMEX TYPE="LOCATION">Butterfinger</ENAMEX> and <ENAMEX TYPE="LOCATION">Pearson</ENAMEX> candy businesses to <ENAMEX TYPE="ORGANIZATION">Nestle S.A.</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Nestle Foods</ENAMEX> unit for <NUMEX TYPE="MONEY">$370 million</NUMEX>.</s> 
+
+   <s>The <EVENT class="OCCURRENCE" eid="e5">sale</EVENT>, at a higher <EVENT class="STATE" eid="e121">price</EVENT> than some analysts had <EVENT class="I_STATE" eid="e7">expected</EVENT>, <EVENT class="I_ACTION" eid="e8">helps</EVENT> the food and tobacco giant <EVENT class="OCCURRENCE" eid="e72">raise</EVENT> funds to <EVENT class="OCCURRENCE" eid="e10">pay</EVENT> debt and <EVENT class="OCCURRENCE" eid="e11">boosts</EVENT> <ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX>'s <NUMEX TYPE="PERCENT">7%</NUMEX> share of the <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> candy market to <EVENT class="STATE" eid="e73">about <NUMEX TYPE="PERCENT">12%</NUMEX></EVENT>.</s> 
+
+   <s>The candy businesses <EVENT class="STATE" eid="e75">had</EVENT> <EVENT class="STATE" eid="e76">sales</EVENT> of about <NUMEX TYPE="MONEY">$154 million</NUMEX> <TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t79" type="DATE" value="1988">last year</TIMEX3>, which was roughly <NUMEX TYPE="PERCENT">12%</NUMEX> of total revenue for <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Planters LifeSavers</ENAMEX> unit, <EVENT class="REPORTING" eid="e80">according</EVENT> to a memorandum <EVENT class="OCCURRENCE" eid="e14">distributed</EVENT> by <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>'s owner, <ENAMEX TYPE="ORGANIZATION">Kohlberg Kravis Roberts amp Co.</ENAMEX>, to bankers <TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t82" type="DATE" value="1988-12">last December</TIMEX3>.</s> 
+
+   <s>The <ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX> acquisition includes a candy plant in <ENAMEX TYPE="LOCATION">Franklin Park</ENAMEX>, <ENAMEX TYPE="LOCATION">Ill.</ENAMEX>, which employs <CARDINAL>about 800</CARDINAL> workers.</s> 
+
+   <s>The <EVENT class="OCCURRENCE" eid="e17">sale</EVENT>, which had been <EVENT class="I_STATE" eid="e18">expected</EVENT>, is part of <ENAMEX TYPE="ORGANIZATION">KKR</ENAMEX>'s <EVENT class="I_STATE" eid="e83">program</EVENT> to <EVENT class="OCCURRENCE" eid="e20">pay</EVENT> down <NUMEX TYPE="MONEY">$5 billion</NUMEX> of a <NUMEX TYPE="MONEY">$6 billion</NUMEX> bridge loan <SIGNAL sid="s84">by</SIGNAL> <TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t85" type="DATE" value="1990-02">February</TIMEX3>.</s> 
+<s>Roughly <NUMEX TYPE="MONEY">$2 billion</NUMEX> of that debt has <SIGNAL sid="s86">already</SIGNAL> been <EVENT class="OCCURRENCE" eid="e21">repaid</EVENT> from previous asset sales, and <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX> <EVENT class="I_STATE" eid="e23">expects</EVENT> to <EVENT class="OCCURRENCE" eid="e24">use</EVENT> another <NUMEX TYPE="MONEY">$2 billion</NUMEX> from the pending, two-part <EVENT class="OCCURRENCE" eid="e25">sale</EVENT> of most of its <ENAMEX TYPE="ORGANIZATION">Del Monte</ENAMEX> unit.</s> 
+<s>That <EVENT class="OCCURRENCE" eid="e26">sale</EVENT>, however , could still <EVENT class="OCCURRENCE" eid="e89">fall</EVENT> through <SIGNAL sid="s28">if</SIGNAL> financing problems <EVENT class="OCCURRENCE" eid="e29">develop</EVENT>.</s> 
+<s>Thus, it remains crucial for <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX> to obtain top dollar for its smaller assets like the candy brands.</s> 
+
+   <s><ENAMEX TYPE="PERSON">Louis Gerstner Jr.</ENAMEX>, chairman and chief executive officer of <ENAMEX TYPE="LOCATION">New York</ENAMEX>-based <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>, called the sale a "significant step" in the company's divestiture program, as well as a "a strategic divestiture."</s> 
+<s><SIGNAL sid="s274">Since</SIGNAL> <ENAMEX TYPE="ORGANIZATION">KKR</ENAMEX> <EVENT class="OCCURRENCE" eid="e38">bought</EVENT> <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX> <SIGNAL sid="s90">in</SIGNAL> <TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t91" type="DATE" value="1989-02">February</TIMEX3> for <NUMEX TYPE="MONEY">$25 billion</NUMEX> of debt, it has <EVENT class="I_STATE" eid="e39">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e41">sell</EVENT> nearly <NUMEX TYPE="MONEY">$5 billion</NUMEX> of <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX> assets.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>'s executives have <EVENT class="REPORTING" eid="e42">said</EVENT> they will <EVENT class="OCCURRENCE" eid="e43">dispense</EVENT> with certain brands, in particular, that are n't  <EVENT class="STATE" eid="e93">leaders</EVENT> in their markets.</s> 
+<s>"<ENAMEX TYPE="ORGANIZATION">RJR Nabisco</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Planters LifeSavers</ENAMEX> will <EVENT class="OCCURRENCE" eid="e94">concentrate</EVENT> more on our own core businesses," <ENAMEX TYPE="PERSON">Mr. Gerstner</ENAMEX> <EVENT class="REPORTING" eid="e50">said</EVENT> <TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t95" type="DATE" value="1989-10-27">Friday</TIMEX3>.</s> 
+
+   <s>Baby Ruth and Butterfinger are both among the top-selling <CARDINAL>15</CARDINAL> chocolate bars in the <ENAMEX TYPE="LOCATION">U.S.</ENAMEX>, but <ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>'s overall share of the roughly <NUMEX TYPE="MONEY">$5.1 billion</NUMEX> market is less than <NUMEX TYPE="PERCENT">5%</NUMEX>.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX>'s <EVENT class="STATE" eid="e96">share</EVENT> of <NUMEX TYPE="PERCENT">7%</NUMEX> <SIGNAL sid="s98">before</SIGNAL> <TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t99" type="DATE" value="1989-10-27">Friday</TIMEX3>'s <EVENT class="OCCURRENCE" eid="e52">purchases</EVENT> is far below the shares of market leaders <ENAMEX TYPE="ORGANIZATION">Hershey Foods Corp.</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Mars Inc.</ENAMEX>, which have about <NUMEX TYPE="PERCENT">40%</NUMEX> and <NUMEX TYPE="PERCENT">36%</NUMEX> of the market, respectively.</s> 
+
+   <s>"This means <ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX> is now in the candybar business in a big way," <EVENT class="REPORTING" eid="e61">said</EVENT> <ENAMEX TYPE="PERSON">Lisbeth Echeandia</ENAMEX>, publisher of <ENAMEX TYPE="LOCATION">Orlando</ENAMEX>, <ENAMEX TYPE="LOCATION">Fla.</ENAMEX>-based Confectioner Magazine.</s> 
+<s>"For them, it makes all kinds of sense.</s> 
+<s>They've been <EVENT class="OCCURRENCE" eid="e64">given</EVENT> a mandate from <ENAMEX TYPE="LOCATION">Switzerland</ENAMEX>" to <EVENT class="I_ACTION" eid="e67">expand</EVENT> their <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> chocolate <EVENT class="OCCURRENCE" eid="e100">operations</EVENT>.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">Nestle S.A.</ENAMEX> is based in <ENAMEX TYPE="LOCATION">Vevey</ENAMEX>, <ENAMEX TYPE="LOCATION">Switzerland</ENAMEX>.</s> 
+
+   <s>The new candy bars, "<EVENT class="OCCURRENCE" eid="e69">make</EVENT> an important <EVENT class="OCCURRENCE" eid="e70">contribution</EVENT> to our <ENAMEX TYPE="ORGANIZATION">Nestle Foods</ENAMEX> commitment to this very important strategic unit," <EVENT class="REPORTING" eid="e71">said</EVENT> C. Alan MacDonald, president of <ENAMEX TYPE="ORGANIZATION">Nestle Foods</ENAMEX> in <ENAMEX TYPE="LOCATION">Purchase</ENAMEX>, <ENAMEX TYPE="LOCATION">N.Y.</ENAMEX></s> 
+
+</TEXT>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei1989" eventID="e1" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1990" eventID="e2" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1991" eventID="e4" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1992" eventID="e5" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1993" eventID="e121" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei1994" eventID="e7" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1995" eventID="e8" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1996" eventID="e72" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1997" eventID="e10" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1998" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei1999" eventID="e73" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2000" eventID="e75" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2001" eventID="e76" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2002" eventID="e80" polarity="POS" pos="VERB" tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2003" eventID="e14" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2004" eventID="e17" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2005" eventID="e18" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2006" eventID="e83" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2007" eventID="e20" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2008" eventID="e21" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2009" eventID="e23" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2010" eventID="e24" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2011" eventID="e25" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2012" eventID="e26" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2013" eventID="e89" modality="could" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2014" eventID="e29" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2015" eventID="e38" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2016" eventID="e39" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2017" eventID="e41" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2018" eventID="e42" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2019" eventID="e43" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2020" eventID="e93" polarity="NEG" pos="NOUN" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2021" eventID="e94" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2022" eventID="e50" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2023" eventID="e96" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2024" eventID="e52" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2025" eventID="e61" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei2026" eventID="e64" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2027" eventID="e67" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2028" eventID="e100" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2029" eventID="e69" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2030" eventID="e70" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2031" eventID="e71" polarity="POS" pos="VERB" tense="PAST" />
+
+<TLINK eventInstanceID="ei2002" lid="l54" relType="-1" relatedToTime="t82" />
+<TLINK eventInstanceID="ei1989" lid="l1" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei1992" lid="l2" relType="-1" relatedToEventInstance="ei1991" />
+<TLINK eventInstanceID="ei1994" lid="l3" relType="1" relatedToEventInstance="ei1992" />
+<TLINK eventInstanceID="ei1994" lid="l4" relType="1" relatedToEventInstance="ei1990" />
+<TLINK eventInstanceID="ei1992" lid="l5" relType="1" relatedToEventInstance="ei1995" />
+<TLINK eventInstanceID="ei1992" lid="l6" relType="1" relatedToEventInstance="ei1998" />
+<TLINK eventInstanceID="ei1995" lid="l7" relType="-1" relatedToEventInstance="ei1998" />
+<TLINK eventInstanceID="ei1998" lid="l8" relType="-1" relatedToEventInstance="ei1999" />
+<TLINK eventInstanceID="ei2000" lid="l9" relType="-1" relatedToEventInstance="ei2001" />
+<TLINK eventInstanceID="ei2000" lid="l10" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2000" lid="l11" relType="-1" relatedToTime="t79" />
+<TLINK eventInstanceID="ei2003" lid="l12" relType="-1" relatedToTime="t82" />
+<TLINK eventInstanceID="ei2004" lid="l13" relType="-1" relatedToEventInstance="ei1992" />
+<TLINK eventInstanceID="ei2005" lid="l14" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2004" lid="l15" relType="-1" relatedToEventInstance="ei2006" />
+<TLINK eventInstanceID="ei2007" lid="l16" relType="-1" relatedToTime="t85" signalID="s84" />
+<TLINK eventInstanceID="ei2008" lid="l17" relType="1" relatedToTime="t78" signalID="s86" />
+<TLINK eventInstanceID="ei2009" lid="l18" relType="-1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2011" lid="l19" relType="1" relatedToEventInstance="ei2010" />
+<TLINK eventInstanceID="ei2012" lid="l20" relType="-1" relatedToEventInstance="ei2011" />
+<TLINK eventInstanceID="ei2013" lid="l21" relType="1" relatedToEventInstance="ei2014" />
+<TLINK eventInstanceID="ei2013" lid="l22" relType="1" relatedToEventInstance="ei2012" />
+<TLINK eventInstanceID="ei2015" lid="l23" relType="-1" relatedToTime="t91" signalID="s90" />
+<TLINK eventInstanceID="ei2016" lid="l24" relType="1" relatedToEventInstance="ei2015" signalID="s274" />
+<TLINK eventInstanceID="ei2018" lid="l25" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2020" lid="l26" relType="1" relatedToEventInstance="ei2019" />
+<TLINK eventInstanceID="ei2021" lid="l27" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2022" lid="l28" relType="-1" relatedToTime="t95" />
+<TLINK eventInstanceID="ei2023" lid="l29" relType="1" relatedToEventInstance="ei2024" signalID="s98" />
+<TLINK eventInstanceID="ei2024" lid="l30" relType="-1" relatedToTime="t99" />
+<TLINK eventInstanceID="ei2024" lid="l31" relType="-1" relatedToEventInstance="ei1991" />
+<TLINK eventInstanceID="ei2025" lid="l32" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2026" lid="l33" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2026" lid="l34" relType="1" relatedToEventInstance="ei2025" />
+<TLINK eventInstanceID="ei2031" lid="l35" relType="1" relatedToTime="t78" />
+<TLINK eventInstanceID="ei2029" lid="l36" relType="-1" relatedToEventInstance="ei2030" />
+
+<SLINK eventInstanceID="ei2014" lid="l37" relType="CONDITIONAL" signalID="s28" subordinatedEventInstance="ei2013" />
+<SLINK eventInstanceID="ei1989" lid="l38" relType="EVIDENTIAL" subordinatedEventInstance="ei1990" />
+<SLINK eventInstanceID="ei1990" lid="l39" relType="MODAL" subordinatedEventInstance="ei1991" />
+<SLINK eventInstanceID="ei1994" lid="l40" relType="MODAL" subordinatedEventInstance="ei1993" />
+<SLINK eventInstanceID="ei1995" lid="l41" relType="MODAL" subordinatedEventInstance="ei1996" />
+<SLINK eventInstanceID="ei1996" lid="l42" relType="FACTIVE" subordinatedEventInstance="ei1997" />
+<SLINK eventInstanceID="ei2002" lid="l43" relType="EVIDENTIAL" subordinatedEventInstance="ei2000" />
+<SLINK eventInstanceID="ei2005" lid="l44" relType="MODAL" subordinatedEventInstance="ei2004" />
+<SLINK eventInstanceID="ei2006" lid="l45" relType="MODAL" subordinatedEventInstance="ei2007" />
+<SLINK eventInstanceID="ei2009" lid="l46" relType="MODAL" subordinatedEventInstance="ei2010" />
+<SLINK eventInstanceID="ei2016" lid="l47" relType="MODAL" subordinatedEventInstance="ei2017" />
+<SLINK eventInstanceID="ei2018" lid="l48" relType="EVIDENTIAL" subordinatedEventInstance="ei2019" />
+<SLINK eventInstanceID="ei2022" lid="l49" relType="EVIDENTIAL" subordinatedEventInstance="ei2021" />
+<SLINK eventInstanceID="ei2026" lid="l50" relType="MODAL" subordinatedEventInstance="ei2027" />
+<SLINK eventInstanceID="ei2027" lid="l51" relType="FACTIVE" subordinatedEventInstance="ei2028" />
+<SLINK eventInstanceID="ei2025" lid="l52" relType="EVIDENTIAL" subordinatedEventInstance="ei2026" />
+<SLINK eventInstanceID="ei2031" lid="l53" relType="EVIDENTIAL" subordinatedEventInstance="ei2029" />
+
+</TimeML>

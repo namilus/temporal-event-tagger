@@ -1,0 +1,46 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> WSJ891030-0149 </DOCNO>
+<DD> = 891030 </DD>
+<AN> 891030-0149. </AN>
+<HL> Trustcorp Inc. to Change Name </HL>
+<DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t14" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> TTCO SOCI </CO>
+<IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+BANKS (BNK) </IN>
+<DATELINE> TOLEDO, Ohio  </DATELINE>
+<TEXT>
+   <s><ENAMEX TYPE="ORGANIZATION">Trustcorp Inc.</ENAMEX> will <EVENT class="OCCURRENCE" eid="e1" stem="become">become</EVENT> <ENAMEX TYPE="ORGANIZATION">Society Bank amp Trust</ENAMEX> <SIGNAL sid="s2">when</SIGNAL> its <EVENT class="OCCURRENCE" eid="e3" stem="merger">merger</EVENT> is <EVENT class="ASPECTUAL" eid="e4" stem="complete">completed</EVENT> with <ENAMEX TYPE="ORGANIZATION">Society Corp.</ENAMEX> of <ENAMEX TYPE="LOCATION">Cleveland</ENAMEX>, the bank <EVENT class="REPORTING" eid="e5" stem="say">said</EVENT>.</s> 
+
+   <s><ENAMEX TYPE="ORGANIZATION">Society Corp.</ENAMEX>, which is also a bank, <EVENT class="I_ACTION" eid="e6" stem="agree">agreed</EVENT> <SIGNAL sid="s13">in</SIGNAL> <TIMEX3 anchorTimeID="t14" functionInDocument="NONE" temporalFunction="true" tid="t15" type="DATE" value="1989-06">June</TIMEX3> to <EVENT class="OCCURRENCE" eid="e8" stem="buy">buy</EVENT> <ENAMEX TYPE="ORGANIZATION">Trustcorp</ENAMEX> for <CARDINAL>12.4 million</CARDINAL> shares of stock with a market value of about <NUMEX TYPE="MONEY">$450 million</NUMEX>.</s> 
+<s>The <EVENT class="OCCURRENCE" eid="e9" stem="transaction">transaction</EVENT> is <EVENT class="I_STATE" eid="e10" stem="expect">expected</EVENT> to <EVENT class="ASPECTUAL" eid="e12" stem="close">close</EVENT> <TIMEX3 anchorTimeID="t14" functionInDocument="NONE" mod="APPROX" temporalFunction="true" tid="t17" type="DATE" value="1989-12">around year end</TIMEX3>.</s> 
+
+</TEXT>
+
+<MAKEINSTANCE aspect="NONE" eiid="ei88" eventID="e9" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei84" eventID="e4" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei85" eventID="e5" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei87" eventID="e8" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei82" eventID="e1" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei90" eventID="e12" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei86" eventID="e6" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei83" eventID="e3" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei89" eventID="e10" polarity="POS" pos="VERB" tense="PRESENT" />
+<TLINK eventInstanceID="ei89" lid="l14" relType="-1" relatedToTime="t14" />
+<TLINK eventInstanceID="ei82" lid="l1" relType="1" relatedToTime="t14" />
+<TLINK eventInstanceID="ei82" lid="l2" relType="1" relatedToEventInstance="ei84" signalID="s2" />
+<TLINK eventInstanceID="ei85" lid="l3" relType="1" relatedToTime="t14" />
+<TLINK eventInstanceID="ei86" lid="l4" relType="-1" relatedToTime="t15" signalID="s13" />
+<TLINK eventInstanceID="ei87" lid="l5" relType="-1" relatedToEventInstance="ei83" />
+<TLINK eventInstanceID="ei88" lid="l6" relType="-1" relatedToEventInstance="ei87" />
+<TLINK eventInstanceID="ei88" lid="l7" relType="-1" relatedToEventInstance="ei83" />
+<TLINK eventInstanceID="ei90" lid="l8" relType="-1" relatedToTime="t17" />
+<SLINK eventInstanceID="ei85" lid="l9" relType="EVIDENTIAL" subordinatedEventInstance="ei82" />
+<SLINK eventInstanceID="ei86" lid="l10" relType="MODAL" subordinatedEventInstance="ei87" />
+<SLINK eventInstanceID="ei89" lid="l11" relType="MODAL" subordinatedEventInstance="ei90" />
+<ALINK eventInstanceID="ei84" lid="l12" relType="CULMINATES" relatedToEventInstance="ei83" />
+<ALINK eventInstanceID="ei90" lid="l13" relType="CULMINATES" relatedToEventInstance="ei88" />
+
+
+</TimeML>

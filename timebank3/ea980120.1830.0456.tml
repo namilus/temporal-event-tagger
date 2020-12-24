@@ -1,0 +1,52 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> ea<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t13" type="DATE" value="1998-01-20">980120</TIMEX3>.1830.0456 </DOCNO>
+<DOCTYPE SOURCE="broadcast news"> NEWS STORY </DOCTYPE>
+<BODY>
+<bn_episode_trans air_date="" program="ABC_World_News_Tonight">
+<section endTime="495.693" startTime="456.203" type="report">
+<TEXT>
+<turn endTime="484.754" speaker="Diane_Sawyer" spkrtype="female" startTime="456.203">
+ <s>The <ENAMEX TYPE="ORGANIZATION">Pentagon</ENAMEX> <EVENT class="REPORTING" eid="e1">said</EVENT> <TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t14" type="DATE" value="1998-01-20">today</TIMEX3> it  will <EVENT class="I_ACTION" eid="e2">re-examine</EVENT> the <EVENT class="I_STATE" eid="e17">question</EVENT> are the remains inside the Tomb of the Unknown from the Vietnam War, in fact, <EVENT class="OCCURRENCE" eid="e5">known</EVENT>?</s>
+<time sec="465.305">
+ <s><ENAMEX TYPE="ORGANIZATION">CBS News first</ENAMEX> <EVENT class="REPORTING" eid="e6">reported</EVENT> <TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t15" type="TIME" value="1998-01-19TNI">last night</TIMEX3> that the tomb may <EVENT class="OCCURRENCE" eid="e7">contain</EVENT> the remains of <ENAMEX TYPE="PERSON"><ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> pilot Michael Blassie</ENAMEX>.</s>
+<time sec="471.734">
+ <s>There was a <EVENT class="I_STATE" eid="e18">suspicion</EVENT> the body <EVENT class="STATE" eid="e20">was</EVENT> <ENAMEX TYPE="PERSON">Blassie</ENAMEX> because his uniform and <ENAMEX TYPE="LOCATION">ID</ENAMEX> card  were <EVENT class="OCCURRENCE" eid="e9">found</EVENT> near the body in <ENAMEX TYPE="LOCATION">Vietnam</ENAMEX>.</s> <s>But <SIGNAL sid="s20">subsequently</SIGNAL>, they  were <EVENT class="OCCURRENCE" eid="e10">lost</EVENT>.</s> <s><ENAMEX TYPE="PERSON">Blassie</ENAMEX>'s mother <TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t16" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="I_STATE" eid="e11">wants</EVENT> the remains in the tomb <EVENT class="OCCURRENCE" eid="e12">tested</EVENT> for <ENAMEX TYPE="ORGANIZATION">DNA</ENAMEX>.</s>
+</time></time></turn></TEXT></section></bn_episode_trans></BODY>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei99" eventID="e1" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei100" eventID="e2" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei101" eventID="e17" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei102" eventID="e5" polarity="POS" pos="ADJECTIVE" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei103" eventID="e6" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei104" eventID="e7" modality="may" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei105" eventID="e18" polarity="POS" pos="NOUN" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei107" eventID="e9" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei108" eventID="e10" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei109" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei110" eventID="e12" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei111" eventID="e20" polarity="POS" pos="OTHER" tense="PAST" />
+
+<TLINK eventInstanceID="ei102" lid="l18" relType="-1" relatedToTime="t13" />
+<TLINK eventInstanceID="ei99" lid="l1" relType="-1" relatedToTime="t14" />
+<TLINK eventInstanceID="ei99" lid="l2" relType="-1" relatedToTime="t13" />
+<TLINK eventInstanceID="ei103" lid="l3" relType="-1" relatedToTime="t15" />
+<TLINK eventInstanceID="ei103" lid="l4" relType="1" relatedToEventInstance="ei99" />
+<TLINK eventInstanceID="ei105" lid="l5" relType="-1" relatedToEventInstance="ei103" />
+<TLINK eventInstanceID="ei107" lid="l6" relType="1" relatedToEventInstance="ei105" />
+<TLINK eventInstanceID="ei107" lid="l7" relType="1" relatedToTime="t13" />
+<TLINK eventInstanceID="ei108" lid="l8" relType="1" relatedToEventInstance="ei107" signalID="s20" />
+<TLINK lid="l9" relType="-1" relatedToEventInstance="ei109" timeID="t16" />
+<TLINK eventInstanceID="ei109" lid="l10" relType="-1" relatedToTime="t13" />
+<TLINK eventInstanceID="ei109" lid="l11" relType="1" relatedToTime="t15" />
+
+<SLINK eventInstanceID="ei101" lid="l17" relType="MODAL" subordinatedEventInstance="ei102" />
+<SLINK eventInstanceID="ei99" lid="l12" relType="EVIDENTIAL" subordinatedEventInstance="ei100" />
+<SLINK eventInstanceID="ei100" lid="l13" relType="FACTIVE" subordinatedEventInstance="ei101" />
+<SLINK eventInstanceID="ei103" lid="l14" relType="EVIDENTIAL" subordinatedEventInstance="ei104" />
+<SLINK eventInstanceID="ei109" lid="l15" relType="MODAL" subordinatedEventInstance="ei110" />
+<SLINK eventInstanceID="ei105" lid="l16" relType="MODAL" subordinatedEventInstance="ei111" />
+
+</TimeML>

@@ -1,0 +1,70 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> WSJ891102-0041 </DOCNO>
+<DD> = 891102 </DD>
+<AN> 891102-0041. </AN>
+<HL> Business Brief -- Primerica Corp.:
+@  A.L. Williams Corp. Merges
+@  Into Firm on Holders' Vote </HL>
+<DD> <TIMEX3 functionInDocument="PUBLICATION_TIME" temporalFunction="false" tid="t20" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> PA </CO>
+<IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) </IN>
+<TEXT>
+   <s><ENAMEX TYPE="ORGANIZATION">A.L. Williams Corp.</ENAMEX>  was <EVENT class="OCCURRENCE" eid="e1">merged</EVENT> into <ENAMEX TYPE="ORGANIZATION">Primerica Corp.</ENAMEX>, <ENAMEX TYPE="LOCATION">New York</ENAMEX>, <SIGNAL sid="s3">after</SIGNAL> a special <EVENT class="OCCURRENCE" eid="e2">meeting</EVENT> of <ENAMEX TYPE="ORGANIZATION">Williams</ENAMEX> shareholders <EVENT class="I_ACTION" eid="e4">cleared</EVENT> the <EVENT class="OCCURRENCE" eid="e23">transaction</EVENT>, the companies <EVENT class="REPORTING" eid="e5">said</EVENT>.</s> 
+
+   <s><ENAMEX TYPE="ORGANIZATION">Primerica</ENAMEX>, which  had <EVENT class="STATE" eid="e6">owned</EVENT> nearly <NUMEX TYPE="PERCENT">70%</NUMEX> of <ENAMEX TYPE="ORGANIZATION">Williams</ENAMEX>,  will <EVENT class="OCCURRENCE" eid="e7">pay</EVENT> <CARDINAL>about 16.7 million</CARDINAL> shares, <TIMEX3 anchorTimeID="t20" functionInDocument="NONE" temporalFunction="true" tid="t25" type="TIME" value="PRESENT_REF">currently</TIMEX3> <EVENT class="STATE" eid="e8">valued</EVENT> at almost <NUMEX TYPE="MONEY">$472 million</NUMEX>, for the rest of <ENAMEX TYPE="ORGANIZATION">Williams</ENAMEX>.</s> 
+<s>The financial-services company  will <EVENT class="OCCURRENCE" eid="e9">pay</EVENT> <CARDINAL>0.82</CARDINAL> share for each <ENAMEX TYPE="ORGANIZATION">Williams</ENAMEX> share.</s> 
+
+   <s><ENAMEX TYPE="ORGANIZATION">Williams</ENAMEX> shares, which were  to  be <EVENT class="OCCURRENCE" eid="e10">delisted</EVENT> from the <ENAMEX TYPE="ORGANIZATION">New York Stock Exchange</ENAMEX> <SIGNAL sid="s82">after</SIGNAL> the <EVENT class="OCCURRENCE" eid="e26">close</EVENT> of composite trading <TIMEX3 anchorTimeID="t20" functionInDocument="NONE" temporalFunction="true" tid="t21" type="DATE" value="1989-11-01">yesterday</TIMEX3>, <EVENT class="OCCURRENCE" eid="e11">closed</EVENT> at <NUMEX TYPE="MONEY">$23.25</NUMEX>, off <NUMEX TYPE="MONEY">12.5 cents</NUMEX>.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">Primerica</ENAMEX> <EVENT class="I_ACTION" eid="e12">closed</EVENT> at <NUMEX TYPE="MONEY">$28.25</NUMEX>, down <NUMEX TYPE="MONEY">50 cents</NUMEX>.</s> 
+
+   <s><ENAMEX TYPE="ORGANIZATION">Williams</ENAMEX>, <ENAMEX TYPE="LOCATION">Duluth</ENAMEX>, <ENAMEX TYPE="LOCATION">Ga.</ENAMEX>, is an insurance and financial-services holding company.</s> 
+<s>Its subsidiaries' services  are marketed by closely held <ENAMEX TYPE="ORGANIZATION">A.L. Williams amp Associates</ENAMEX>.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">Primerica</ENAMEX>, as expected, also <EVENT class="OCCURRENCE" eid="e27">acquired</EVENT> certain assets of the agency and <EVENT class="OCCURRENCE" eid="e17">assumed</EVENT> certain of its liabilities.</s> 
+<s>Terms were n't <EVENT class="REPORTING" eid="e18">disclosed</EVENT>.</s> 
+</TEXT>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei137" eventID="e1" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei138" eventID="e2" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei139" eventID="e4" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei140" eventID="e23" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei141" eventID="e5" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei142" eventID="e6" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei143" eventID="e7" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei144" eventID="e8" polarity="POS" pos="VERB" tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei145" eventID="e9" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei146" eventID="e10" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei147" eventID="e26" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei148" eventID="e11" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei149" eventID="e12" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei150" eventID="e27" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei151" eventID="e17" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei152" eventID="e18" polarity="NEG" pos="VERB" tense="PAST" />
+
+<TLINK eventInstanceID="ei143" lid="l1" relType="1" relatedToTime="t20" />
+<TLINK lid="l2" relType="-1" relatedToTime="t20" timeID="t25" />
+<TLINK eventInstanceID="ei144" lid="l3" relType="-1" relatedToTime="t25" />
+<TLINK eventInstanceID="ei138" lid="l4" relType="-1" relatedToEventInstance="ei139" />
+<TLINK eventInstanceID="ei145" lid="l5" relType="-1" relatedToEventInstance="ei143" />
+<TLINK eventInstanceID="ei145" lid="l6" relType="1" relatedToTime="t20" />
+<TLINK eventInstanceID="ei146" lid="l7" relType="1" relatedToEventInstance="ei147" signalID="s82" />
+
+<TLINK eventInstanceID="ei147" lid="l9" relType="-1" relatedToTime="t21" />
+<TLINK lid="l10" relType="0" relatedToTime="t20" timeID="t21" />
+<TLINK eventInstanceID="ei148" lid="l11" relType="-1" relatedToTime="t21" />
+<TLINK eventInstanceID="ei149" lid="l12" relType="-1" relatedToTime="t21" />
+<TLINK eventInstanceID="ei141" lid="l13" relType="-1" relatedToTime="t20" />
+<TLINK eventInstanceID="ei150" lid="l14" relType="-1" relatedToEventInstance="ei140" />
+<TLINK eventInstanceID="ei140" lid="l15" relType="-1" relatedToEventInstance="ei137" />
+<TLINK eventInstanceID="ei142" lid="l16" relType="1" relatedToTime="t20" />
+<TLINK eventInstanceID="ei137" lid="l17" relType="1" relatedToEventInstance="ei138" signalID="s3" />
+<TLINK eventInstanceID="ei151" lid="l18" relType="-1" relatedToEventInstance="ei140" />
+<TLINK eventInstanceID="ei152" lid="l19" relType="-1" relatedToTime="t20" />
+
+<SLINK eventInstanceID="ei139" lid="l20" relType="MODAL" subordinatedEventInstance="ei140" />
+<SLINK eventInstanceID="ei141" lid="l21" relType="EVIDENTIAL" subordinatedEventInstance="ei137" />
+
+</TimeML>

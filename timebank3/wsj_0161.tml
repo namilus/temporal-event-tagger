@@ -1,0 +1,74 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> WSJ891102-0030 </DOCNO>
+<DD> = 891102 </DD>
+<AN> 891102-0030. </AN>
+<HL> Business Brief -- Hadson Corp.:
+@  Company Expects to Report
+@  Deficit for Third Quarter </HL>
+<DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t27" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> HAD </CO>
+<TEXT>
+   <s><ENAMEX TYPE="ORGANIZATION">Hadson Corp.</ENAMEX> <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="I_STATE" eid="e2">expects</EVENT> to <EVENT class="REPORTING" eid="e4">report</EVENT> a <TIMEX3 anchorTimeID="t27" functionInDocument="NONE" temporalFunction="true" tid="t28" type="TIME" value="1989-Q3">third-quarter</TIMEX3> net <EVENT class="OCCURRENCE" eid="e5">loss</EVENT> of <NUMEX TYPE="MONEY">$17 million to $19 million</NUMEX> because of special reserves and continued low natural-gas prices.</s> 
+
+   <s>The <ENAMEX TYPE="LOCATION">Oklahoma City</ENAMEX> energy and defense concern <EVENT class="REPORTING" eid="e7">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e8">record</EVENT> a <NUMEX TYPE="MONEY">$7.5 million</NUMEX> <EVENT class="STATE" eid="e64">reserve</EVENT> for its defense group, including a <NUMEX TYPE="MONEY">$4.7 million</NUMEX> <EVENT class="OCCURRENCE" eid="e65">charge</EVENT> related to problems under a fixed-price development contract and <NUMEX TYPE="MONEY">$2.8 million</NUMEX> in overhead <EVENT class="OCCURRENCE" eid="e66">costs</EVENT> that wo n't be <EVENT class="OCCURRENCE" eid="e12">reimbursed</EVENT>.</s> 
+
+   <s>In addition, <ENAMEX TYPE="ORGANIZATION">Hadson</ENAMEX> <EVENT class="REPORTING" eid="e15">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e16">write</EVENT> off about <NUMEX TYPE="MONEY">$3.5 million</NUMEX> in costs related to international exploration leases where <EVENT class="OCCURRENCE" eid="e30">exploration</EVENT> efforts have been <EVENT class="STATE" eid="e29">unsuccessful</EVENT>.</s> 
+
+   <s>The company also <EVENT class="REPORTING" eid="e20">cited</EVENT> interest <EVENT class="OCCURRENCE" eid="e33">costs</EVENT> and <EVENT class="OCCURRENCE" eid="e21">amortization</EVENT> of goodwill as factors in the <EVENT class="OCCURRENCE" eid="e23">loss</EVENT>.</s> 
+
+   <s><TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t31" type="TIME" value="1988-Q3">A year earlier</TIMEX3>, net <EVENT class="STATE" eid="e32">income</EVENT> was <NUMEX TYPE="MONEY">$2.1 million</NUMEX>, or <NUMEX TYPE="MONEY">six cents</NUMEX> a share, on revenue of <NUMEX TYPE="MONEY">$169.9 million</NUMEX>.</s> 
+
+</TEXT>
+
+
+
+<MAKEINSTANCE aspect="NONE" eiid="ei141" eventID="e1" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei142" eventID="e2" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei143" eventID="e4" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei144" eventID="e5" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei145" eventID="e7" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei146" eventID="e8" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei147" eventID="e64" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei148" eventID="e65" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei149" eventID="e66" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei150" eventID="e12" polarity="NEG" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei151" eventID="e15" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei152" eventID="e16" polarity="POS" pos="VERB" tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei153" eventID="e30" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei154" eventID="e29" polarity="POS" pos="ADJECTIVE" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei155" eventID="e20" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei156" eventID="e33" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei157" eventID="e21" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei158" eventID="e23" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei159" eventID="e32" polarity="POS" pos="NOUN" tense="NONE" />
+
+<TLINK eventInstanceID="ei141" lid="l1" relType="1" relatedToTime="t27" />
+<TLINK eventInstanceID="ei144" lid="l2" relType="-1" relatedToTime="t28" />
+<TLINK eventInstanceID="ei141" lid="l3" relType="-1" relatedToEventInstance="ei145" />
+<TLINK eventInstanceID="ei147" lid="l4" relType="-1" relatedToEventInstance="ei148" />
+<TLINK eventInstanceID="ei147" lid="l5" relType="-1" relatedToEventInstance="ei149" />
+<TLINK eventInstanceID="ei149" lid="l6" relType="1" relatedToEventInstance="ei150" />
+<TLINK eventInstanceID="ei151" lid="l7" relType="-1" relatedToEventInstance="ei141" />
+<TLINK eventInstanceID="ei152" lid="l8" relType="1" relatedToEventInstance="ei153" />
+<TLINK eventInstanceID="ei152" lid="l9" relType="1" relatedToTime="t27" />
+<TLINK eventInstanceID="ei153" lid="l10" relType="-1" relatedToEventInstance="ei154" />
+<TLINK eventInstanceID="ei155" lid="l11" relType="-1" relatedToEventInstance="ei141" />
+<TLINK eventInstanceID="ei152" lid="l12" relType="-1" relatedToEventInstance="ei146" />
+<TLINK eventInstanceID="ei158" lid="l13" relType="-1" relatedToEventInstance="ei144" />
+<TLINK eventInstanceID="ei156" lid="l14" relType="-1" relatedToEventInstance="ei158" />
+<TLINK eventInstanceID="ei157" lid="l15" relType="-1" relatedToEventInstance="ei158" />
+<TLINK lid="l16" relType="1" relatedToTime="t28" timeID="t31" />
+<TLINK lid="l17" relType="-1" relatedToEventInstance="ei159" timeID="t31" />
+
+<SLINK eventInstanceID="ei146" lid="l25" relType="FACTIVE" subordinatedEventInstance="ei147" />
+<SLINK eventInstanceID="ei141" lid="l18" relType="EVIDENTIAL" subordinatedEventInstance="ei142" />
+<SLINK eventInstanceID="ei142" lid="l19" relType="MODAL" subordinatedEventInstance="ei143" />
+<SLINK eventInstanceID="ei143" lid="l20" relType="EVIDENTIAL" subordinatedEventInstance="ei144" />
+<SLINK eventInstanceID="ei145" lid="l21" relType="EVIDENTIAL" subordinatedEventInstance="ei146" />
+<SLINK eventInstanceID="ei151" lid="l22" relType="EVIDENTIAL" subordinatedEventInstance="ei152" />
+<SLINK eventInstanceID="ei155" lid="l23" relType="EVIDENTIAL" subordinatedEventInstance="ei156" />
+<SLINK eventInstanceID="ei155" lid="l24" relType="EVIDENTIAL" subordinatedEventInstance="ei157" />
+
+</TimeML>

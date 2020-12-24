@@ -1,0 +1,76 @@
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+
+<DOCNO> WSJ891101-0032 </DOCNO>
+<DD> = 891101 </DD>
+<AN> 891101-0032. </AN>
+<HL> International Brief -- Coates Brothers PLC:
+@  Orkem Bids $7.43 a Share
+@  For Stake It Doesn't Own </HL>
+<DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t39" type="DATE" value="1989-11-01">11/01/89</TIMEX3> </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> F.ORK EUROP U.CTB </CO>
+<IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+CHEMICALS, PLASTICS (CHM) </IN>
+<TEXT>
+   <s><ENAMEX TYPE="ORGANIZATION">Orkem S.A.</ENAMEX>, a French state-controlled chemical manufacturer, is <EVENT class="OCCURRENCE" eid="e1" stem="make">making</EVENT> a friendly <EVENT class="OCCURRENCE" eid="e2" stem="bid">bid</EVENT> of <NUMEX TYPE="MONEY">470 pence</NUMEX> (<NUMEX TYPE="MONEY">$7.43</NUMEX>) a share for the <NUMEX TYPE="PERCENT">59.2%</NUMEX> of <ENAMEX TYPE="LOCATION">U.K.</ENAMEX> specialty chemical group <ENAMEX TYPE="ORGANIZATION">Coates Brothers PLC</ENAMEX> which it does n't <SIGNAL sid="s40">already</SIGNAL> <EVENT class="STATE" eid="e3" stem="own">own</EVENT>, the <CARDINAL>two</CARDINAL> sides <EVENT class="REPORTING" eid="e5" stem="say">said</EVENT>.</s> 
+
+   <s>The <EVENT class="OCCURRENCE" eid="e6" stem="offer">offer</EVENT>, which values the whole of <ENAMEX TYPE="ORGANIZATION">Coates</ENAMEX> at #<CARDINAL>301 million</CARDINAL>, has <SIGNAL sid="s73">already</SIGNAL> been <EVENT class="I_ACTION" eid="e8" stem="accept">accepted</EVENT> by <ENAMEX TYPE="ORGANIZATION">Coates</ENAMEX> executives and other shareholders owning <NUMEX TYPE="PERCENT">12.4%</NUMEX> of the company.</s> 
+<s>The <EVENT class="OCCURRENCE" eid="e10" stem="acceptance">acceptances</EVENT> <EVENT class="OCCURRENCE" eid="e11" stem="give">give</EVENT> <ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX> a controlling <NUMEX TYPE="PERCENT">53.2%</NUMEX> <EVENT class="STATE" eid="e42" stem="stake">stake</EVENT> in the company.</s> 
+
+   <s><ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Coates</ENAMEX> <EVENT class="REPORTING" eid="e12" stem="say">said</EVENT> <TIMEX3 anchorTimeID="t39" functionInDocument="NONE" temporalFunction="true" tid="t50" type="DATE" value="1989-10-25">last Wednesday</TIMEX3> that the <CARDINAL>two</CARDINAL> were <EVENT class="I_STATE" eid="e13" stem="consider">considering</EVENT> a <EVENT class="OCCURRENCE" eid="e14" stem="merger">merger</EVENT>, through <ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX>'s British subsidiary, <ENAMEX TYPE="ORGANIZATION">Orkem Coatings U.K. Ltd. 
+
+   Orkem</ENAMEX>, <ENAMEX TYPE="LOCATION">France</ENAMEX>'s third-largest chemical group, <EVENT class="REPORTING" eid="e15" stem="say">said</EVENT> it would <EVENT class="OCCURRENCE" eid="e16" stem="fund">fund</EVENT> the <EVENT class="OCCURRENCE" eid="e18" stem="acquisition">acquisition</EVENT> through internal resources.</s> 
+<s>The <EVENT class="OCCURRENCE" eid="e19" stem="takeover">takeover</EVENT> would be <SIGNAL sid="s44">followed by</SIGNAL> a <EVENT class="OCCURRENCE" eid="e45" stem="restructure">restructuring</EVENT> of <ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX>'s <ENAMEX TYPE="LOCATION">U.K.</ENAMEX> unit, including the <EVENT class="OCCURRENCE" eid="e22" stem="addition">addition</EVENT> of related <ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX> businesses and possibly further <EVENT class="OCCURRENCE" eid="e24" stem="acquisition">acquisitions</EVENT>.</s> 
+<s><ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX> <EVENT class="REPORTING" eid="e25" stem="say">said</EVENT> it eventually would <EVENT class="I_ACTION" eid="e26" stem="seek">seek</EVENT> to <EVENT class="OCCURRENCE" eid="e29" stem="make">make</EVENT> a public share <EVENT class="OCCURRENCE" eid="e30" stem="offer">offering</EVENT> in its <ENAMEX TYPE="LOCATION">U.K.</ENAMEX> business.</s> 
+</TEXT>
+
+<MAKEINSTANCE aspect="NONE" eiid="ei166" eventID="e15" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei170" eventID="e45" modality="would" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei163" eventID="e12" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei155" eventID="e2" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei164" eventID="e13" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei172" eventID="e24" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei160" eventID="e10" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei161" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei159" eventID="e8" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei162" eventID="e42" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei173" eventID="e25" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei176" eventID="e30" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei165" eventID="e14" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei171" eventID="e22" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei175" eventID="e29" polarity="POS" pos="VERB" tense="INFINITIVE" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei154" eventID="e1" polarity="POS" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei158" eventID="e6" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei167" eventID="e16" modality="would" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei169" eventID="e19" polarity="POS" pos="NOUN" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei174" eventID="e26" modality="would" polarity="POS" pos="VERB" tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei157" eventID="e5" polarity="POS" pos="VERB" tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei156" eventID="e3" polarity="NEG" pos="VERB" tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei168" eventID="e18" polarity="POS" pos="NOUN" tense="NONE" />
+<TLINK eventInstanceID="ei157" lid="l1" relType="1" relatedToTime="t39" />
+<TLINK eventInstanceID="ei154" lid="l2" relType="-1" relatedToTime="t39" />
+<TLINK eventInstanceID="ei154" lid="l3" relType="-1" relatedToEventInstance="ei155" />
+<TLINK eventInstanceID="ei156" lid="l4" relType="-1" relatedToTime="t39" signalID="s40" />
+<TLINK eventInstanceID="ei158" lid="l5" relType="-1" relatedToEventInstance="ei155" />
+<TLINK eventInstanceID="ei159" lid="l6" relType="-1" relatedToTime="t39" signalID="s73" />
+<TLINK eventInstanceID="ei160" lid="l7" relType="-1" relatedToEventInstance="ei159" />
+<TLINK eventInstanceID="ei160" lid="l8" relType="-1" relatedToEventInstance="ei161" />
+<TLINK eventInstanceID="ei161" lid="l9" relType="1" relatedToEventInstance="ei162" />
+<TLINK eventInstanceID="ei163" lid="l10" relType="-1" relatedToTime="t50" />
+<TLINK eventInstanceID="ei166" lid="l11" relType="-1" relatedToEventInstance="ei163" />
+<TLINK eventInstanceID="ei167" lid="l12" relType="-1" relatedToEventInstance="ei168" />
+<TLINK eventInstanceID="ei169" lid="l13" relType="1" relatedToEventInstance="ei170" signalID="s44" />
+<TLINK eventInstanceID="ei170" lid="l14" relType="-1" relatedToEventInstance="ei171" />
+<TLINK eventInstanceID="ei170" lid="l15" relType="-1" relatedToEventInstance="ei172" />
+<TLINK eventInstanceID="ei173" lid="l16" relType="-1" relatedToEventInstance="ei163" />
+<TLINK eventInstanceID="ei175" lid="l17" relType="-1" relatedToEventInstance="ei176" />
+<SLINK eventInstanceID="ei157" lid="l18" relType="EVIDENTIAL" subordinatedEventInstance="ei154" />
+<SLINK eventInstanceID="ei159" lid="l19" relType="FACTIVE" subordinatedEventInstance="ei158" />
+<SLINK eventInstanceID="ei163" lid="l20" relType="EVIDENTIAL" subordinatedEventInstance="ei164" />
+<SLINK eventInstanceID="ei164" lid="l21" relType="MODAL" subordinatedEventInstance="ei165" />
+<SLINK eventInstanceID="ei166" lid="l22" relType="EVIDENTIAL" subordinatedEventInstance="ei167" />
+<SLINK eventInstanceID="ei173" lid="l23" relType="EVIDENTIAL" subordinatedEventInstance="ei174" />
+<SLINK eventInstanceID="ei174" lid="l24" relType="MODAL" subordinatedEventInstance="ei175" />
+
+
+</TimeML>
